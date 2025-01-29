@@ -145,17 +145,6 @@ I thrive at the intersection of **Android (Kotlin/Java)**, **Flutter**, and **Py
 
 ---
 
-## 💡 Extra Goodies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ziacto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</div>
-
----
-
 <div align="center">
 
 ## ✨ Let's Connect & Collaborate!
