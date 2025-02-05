@@ -30,7 +30,7 @@ I thrive at the intersection of **Android (Kotlin/Java)**, **Flutter**, and **Py
 - 🌇 **Digital Dubai Authority** Lead for **Dubai Now** (2M+ users, ~\$10M monthly transactions)  
 - 📲 **UAE PASS** Co-architect: National Digital ID (50+ Government Services)  
 - 🎓 Master’s in **Computer Science** (Software Engineering)  
-- 👨‍🏫 [Udemy Instructor](https://www.udemy.com/course/full-stack-mobile-application-development-master-class/) with **1000+** students
+- 👨‍🏫 [Udemy Instructor](https://www.udemy.com/course/full-stack-mobile-application-development-master-class/) with **10000+** students
 
 ---
 
