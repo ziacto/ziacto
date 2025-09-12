@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1a73e8&height=200&section=header&text=Zia%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-# **Senior Tech Developer & Mobile Architect at [Buzdy.com](https://buzdy.com)**
+# ** CTO & Mobile Architect at [Buzdy.com](https://buzdy.com)**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadziashahid)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziacto)
@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-A **Mobile Architect** and **Full-Stack Developer** with **10+ years** of experience designing and delivering enterprise-grade applications. I’m currently spearheading mobile development at **Digital Dubai Authority**, where I’ve architected the flagship **UAE PASS** and **Dubai Now** platforms—serving **2M+ users** daily with near-flawless uptime.
+A **CTO and Mobile Architect** and **Full-Stack Developer** with **10+ years** of experience designing and delivering enterprise-grade applications. I’m currently spearheading mobile development at **Digital Dubai Authority**, where I’ve architected the flagship **UAE PASS** and **Dubai Now** platforms—serving **2M+ users** daily with near-flawless uptime.
 
 I thrive at the intersection of **Android (Kotlin/Java)**, **Flutter**, and **Python** for backend/data-driven solutions. My background includes **cloud architectures (AWS)**, **CI/CD (Jenkins/Docker/Kubernetes)**, and enterprise-level security implementations—**OAuth2, JWT, Biometric Auth**, and advanced encryption.
 
