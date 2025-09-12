@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1a73e8&height=200&section=header&text=Zia%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-# ** CTO & Mobile Architect at [Buzdy.com](https://buzdy.com)**
+# **CTO & Mobile Architect at [Buzdy.com](https://buzdy.com)**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadziashahid)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziacto)
