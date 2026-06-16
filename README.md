@@ -211,7 +211,7 @@ _Context: Estidama UAE (current)_
 </td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br/>
 
@@ -225,31 +225,18 @@ _Role: Mobile Security Lead_
 _Context: classified — public summary only_
 
 </td>
-<td width="33%" align="center" valign="top">
-
-<br/>
-
-### 🏢 Aldar Properties
-
-**Enterprise real estate platform**
-
-`React Native` · `Salesforce` · `Oracle ERP` · `Yardi`
-
-_Role: Lead Mobile Engineer_
-
-</td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br/>
 
 ### 📺 Abu Dhabi TV
 
-**Streaming platform**
+**Streaming platform · 100K+ concurrent users**
 
-**100K+** concurrent users<br/>
-`Nat Geo` integration · `adaptive bitrate` · `WebRTC` · `FFmpeg`
+`Nat Geo integration` · `adaptive bitrate` · `WebRTC` · `FFmpeg`
 
 _Role: Senior Android & Security Advisor_
+_Context: Lime Media IPTV_
 
 </td>
 </tr>
