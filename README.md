@@ -14,11 +14,11 @@
 
 ### Senior Mobile Architect · Founder & CTO at Buzdy · Author of *The Unicorn CTO*
 
-<sub>**Dubai, UAE** &nbsp;·&nbsp; 12+ years &nbsp;·&nbsp; **3M+ users reached** across government, fintech, defense, and telecom</sub>
+<sub>**Dubai, UAE** &nbsp;·&nbsp; **12+ years** &nbsp;·&nbsp; shipping mobile across **government · fintech · defense · telecom**</sub>
 
 <br/>
 
-<sub>**3M+ users** &nbsp;·&nbsp; **2M+ daily on Dubai Now** &nbsp;·&nbsp; **$10M+/month transactions** &nbsp;·&nbsp; **99.99% uptime** &nbsp;·&nbsp; **20+ engineer teams led**</sub>
+<sub>**2M+ daily users** &nbsp;·&nbsp; **$10M+/month transactions** &nbsp;·&nbsp; **99.99% uptime** &nbsp;·&nbsp; **20+ engineer teams led** &nbsp;·&nbsp; **100K+ Udemy students**</sub>
 
 <br/>
 
