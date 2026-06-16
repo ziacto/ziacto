@@ -15,30 +15,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AVAILABLE-CTO_·_Fractional_·_Board-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Available"/>
-<img src="https://img.shields.io/badge/AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000" alt="Author of The Unicorn CTO"/>
-<img src="https://img.shields.io/badge/LED-15%2B_ENGINEERS-ff6b35?style=for-the-badge&logo=teamspeak&logoColor=white&labelColor=000000" alt="Led 15+ engineers"/>
-<img src="https://img.shields.io/badge/DUBAI-UTC%2B4-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location: Dubai"/>
-
-<sub><a href="#-lets-talk">↓ Jump straight to contact</a></sub>
-
-<a href="https://github.com/ziacto">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=1A73E8&center=true&vCenter=true&multiline=true&width=920&height=120&lines=I+lead+engineering+for+products+that;serve+entire+countries.;%E2%80%94;Chief+Technology+Officer.+Founder.+Twelve+years+in." alt="Zia Shahid — CTO"/>
-</a>
+<sub>**Engineering leader · serial founder · author of [_The Unicorn CTO_](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8) · led 15+ engineers across 5 ventures · based in Dubai**</sub>
 
 <br/>
 
-[![Hire as CTO](https://img.shields.io/badge/_HIRE_AS_CTO_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/muhammadziashahid)
-[![Advisory](https://img.shields.io/badge/_ADVISORY_SLOTS_-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=000000)](mailto:info@theappsfirm.com?subject=Advisory%20enquiry)
-[![Email](https://img.shields.io/badge/_OPEN_A_CHANNEL_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@theappsfirm.com)
-[![Buzdy](https://img.shields.io/badge/_FOUNDING_AT_BUZDY_-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://buzdy.com)
+<a href="mailto:info@theappsfirm.com?subject=Intro%20call%20—%20from%20your%20GitHub"><img src="https://img.shields.io/badge/_BOOK_A_20--MIN_INTRO_CALL_→-1a73e8?style=for-the-badge&labelColor=000000" height="44" alt="Book a 20-minute intro call"/></a>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=ziacto&label=YOU+ARE+VISITOR&color=1a73e8&style=for-the-badge)
-![Years](https://img.shields.io/badge/_BUILDING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
-![Ventures](https://img.shields.io/badge/_FOUNDED-5_LIVE_VENTURES-ff6b35?style=for-the-badge&labelColor=000000)
-![Students](https://img.shields.io/badge/_UDEMY-10K%2B_STUDENTS-22c55e?style=for-the-badge&labelColor=000000)
+<sub>_for CTO roles · fractional · board · advisory_ &nbsp;·&nbsp; <a href="#-lets-talk">other channels ↓</a></sub>
 
 </div>
 
@@ -193,15 +176,12 @@ If you think being CTO means _"senior developer who gets paid more"_ — you'll 
 </tr>
 </table>
 
-```mermaid
-%%{init: {"theme":"dark","themeVariables":{"pie1":"#1a73e8","pie2":"#ff6b35","pie3":"#a855f7","pie4":"#22c55e"}}}%%
-pie showData
-  title  What the CTO role actually is
-  "Technology"                : 20
-  "People management"         : 30
-  "Politics & communication"  : 30
-  "Business strategy"         : 20
-```
+<div align="center">
+
+> _**The CTO role, by hours:** Technology 20 &nbsp;·&nbsp; People 30 &nbsp;·&nbsp; Politics 30 &nbsp;·&nbsp; Strategy 20_
+> _If you only trained for the first one, you're not ready for the seat._
+
+</div>
 
 <div align="center">
 
@@ -835,8 +815,6 @@ This README is **open-source and built to fork**. Hand-coded SVG banner, Mermaid
 <sub>_If you use it, a credit link in your README would mean a lot — but no obligation. Pay it forward instead._</sub>
 
 <br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,24,30&height=140&section=footer)
 
 <sub>_Crafted by hand · maintained with care · last polish 2026_</sub>
 
