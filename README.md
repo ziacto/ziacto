@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/AVAILABLE-CTO_·_Fractional_·_Board-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Available"/>
 <img src="https://img.shields.io/badge/AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000" alt="Author of The Unicorn CTO"/>
 <img src="https://img.shields.io/badge/DUBAI-UTC%2B4-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location: Dubai"/>
-<img src="https://img.shields.io/badge/REPLIES-WITHIN_24H-eab308?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000" alt="Replies within 24 hours"/>
 
 <sub><a href="#-lets-talk">↓ Jump straight to contact</a></sub>
 
@@ -29,8 +28,8 @@
 <br/>
 
 [![Hire as CTO](https://img.shields.io/badge/_HIRE_AS_CTO_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/muhammadziashahid)
-[![Advisory](https://img.shields.io/badge/_ADVISORY_SLOTS_-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=000000)](mailto:ziagaggoo@gmail.com?subject=Advisory%20enquiry)
-[![Email](https://img.shields.io/badge/_OPEN_A_CHANNEL_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ziagaggoo@gmail.com)
+[![Advisory](https://img.shields.io/badge/_ADVISORY_SLOTS_-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=000000)](mailto:info@theappsfirm.com?subject=Advisory%20enquiry)
+[![Email](https://img.shields.io/badge/_OPEN_A_CHANNEL_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:info@theappsfirm.com)
 [![Buzdy](https://img.shields.io/badge/_FOUNDING_AT_BUZDY_-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://buzdy.com)
 
 <br/>
@@ -56,11 +55,11 @@
 
 **Twelve years in. Two tracks. One continuous arc.**
 
-For **four years** I was a **System Developer at Digital Dubai Authority** — shipping into **UAE PASS** (the country's national digital identity) and **Dubai Now** (the super-app 2M+ residents open daily). Today I'm a **System Developer at Estidama**, working on sustainability-grade systems for Abu Dhabi's built environment.
+For four years I was a **System Developer at Digital Dubai Authority** — contributing to **national-scale identity and city super-app systems** that millions of UAE residents rely on daily. Today I'm a **System Developer at Estidama**, working on sustainability-grade systems for Abu Dhabi's built environment.
 
-In parallel — **for those same four years** — I've been **Founder, CEO & CTO at Buzdy**. My own startup. My own product. My own team. My own thesis. That's where I built the CTO out of the engineer: strategy, hiring, fundraising, product, GTM.
+In parallel — **for those same four years** — I've been **Founder, CEO & operating CTO at Buzdy**. My own startup. My own product. My own team. My own thesis. That's where I built the CTO out of the engineer: strategy, hiring, fundraising, product, GTM.
 
-Running a startup *while* shipping at national scale teaches you what most engineers never learn — how to lead, prioritize, and ship at **two stages at once**. I haven't been "preparing" for a CTO role. **I've been a CTO for four years already.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
+Running a startup *while* shipping at national scale teaches you what most engineers never learn — how to lead, prioritize, and ship at **two stages at once**. I haven't been "preparing" for a CTO role. **I've been operating as CTO at Buzdy for four years.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
 
 ```yaml
 identity:
@@ -70,7 +69,7 @@ identity:
   day_job:     System Developer @ Estidama   (previously: Digital Dubai Authority)
   author_of:   "The Unicorn CTO" · 35 chapters · ~95k words · Dec 2025
   city:        Dubai, UAE
-in_one_line:   I've been a CTO for four years — and I wrote the book on what the job actually is.
+in_one_line:   Operating as CTO at my own startup for four years — and I wrote the book on what the job actually is.
 operating:     Strategy · Org design · Hiring · Architecture · Hands-on
 status:        Open to next CTO role (full-time / fractional / board)
 ```
@@ -258,9 +257,9 @@ mindmap
 ### `UAE_PASS`
 **A country's digital identity**
 
-🏛️ &nbsp; 50+ government services
-🔐 &nbsp; End-to-end encryption
-👤 &nbsp; Biometric MFA
+🏛️ &nbsp; National identity infrastructure
+🔐 &nbsp; Secure auth & encryption
+👤 &nbsp; Biometric flows
 
 > _Role: **System Developer @ DDA**_
 > _Scope: **national**_
@@ -276,7 +275,7 @@ mindmap
 ### `DUBAI_NOW`
 **The city in your pocket**
 
-📱 &nbsp; 2M+ active users
+📱 &nbsp; City super-app scale
 💳 &nbsp; High-volume payments
 ⚡ &nbsp; Major reliability uplift
 
@@ -610,7 +609,6 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 _Software Engineering_
 
 University of Lahore
-Class of 2012
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -652,7 +650,7 @@ If you're **hiring a CTO**, looking for a **fractional**, building a **board**, 
 <p>
   <a href="https://www.linkedin.com/in/muhammadziashahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="42"/></a>
   &nbsp;
-  <a href="mailto:ziagaggoo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="42"/></a>
+  <a href="mailto:info@theappsfirm.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="42"/></a>
   &nbsp;
   <a href="https://github.com/ziacto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" height="42"/></a>
   &nbsp;
@@ -705,6 +703,6 @@ This README is **open-source and built to fork**. Hand-coded SVG banner, Mermaid
 <!--
   ──────────────────────────────────────────────────────────────────
   Still reading? You may be my next hire — or my next employer.
-  Either way: ziagaggoo@gmail.com.
+  Either way: info@theappsfirm.com.
   ──────────────────────────────────────────────────────────────────
 -->
