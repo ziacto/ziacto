@@ -75,7 +75,7 @@
 | **Current direction** | Open to **Fractional CTO · Head of Mobile · Founding CTO · Board / Advisory** |
 | **Base** | Dubai, UAE &nbsp;·&nbsp; UTC+4 &nbsp;·&nbsp; open to remote / hybrid / on-site worldwide |
 | **Background** | 12+ years shipping production mobile across **government, fintech, defense, and telecom** — apps reaching **3M+ users across products** |
-| **Marquee work** | **Dubai Now** (2M+ users · $10M+/month) · **UAE PASS** (50+ government entities) · **BotIM** (current — Flutter migration) · **Ministry of Defense** · **Aldar Properties** · **Abu Dhabi TV** |
+| **Marquee work** | **Dubai Now** (2M+ users · $10M+/month) · **UAE PASS** (50+ government entities) · **BotIM** (current — Flutter migration) · **Ministry of Defense** · **Abu Dhabi TV** |
 | **Leadership scope** | Led **20+ person cross-functional teams** (mobile · backend · DevOps · QA) at Digital Dubai Authority · mentored 15+ engineers, several promoted to senior |
 | **Reliability bar** | **99.99% uptime** on DDA microservices · **99.9% crash-free** sessions on Dubai Now · **80% crash-rate reduction** · **70% faster deployments** |
 | **Founder portfolio** | [Buzdy](https://buzdy.com) (fintech for UAE + KSA) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com) |
@@ -280,32 +280,22 @@ _Context: Lime Media IPTV_
 
 ---
 
-## 🧪 The Operator Portfolio
+## 🚀 Founder Ventures — 5 Live Products
 
-> _Founder-operated products in parallel with the day-job track — the agency funds the products, the products inform the book, the book opens the rooms._
+> _Founder-operated in parallel with the day-job track. The agency funds the products. The products inform the book. The book opens the rooms._
 
-| Venture | Category | What it proves |
-|---|---|---|
-| [**Buzdy**](https://buzdy.com) | Fintech · AI · UAE + KSA | I can build a product thesis, ship it end-to-end, and integrate AI into a real funnel |
-| [**TheAppsFirm**](https://theappsfirm.com) | Apps agency | I understand client delivery, cashflow, and practical execution |
-| [**W3Quran**](https://w3quran.com) | Islamic / Quran tech | I build beyond trends when the mission matters |
-| [**Mr Oye**](https://mroye.com) | AI browser extension | I work AI-native and ship productivity tools |
-| [**Molaqat**](https://molaqat.com) | Meetings / GCC productivity | I understand region-specific product opportunities |
-
-<br/>
-
-### 💸 &nbsp; Founder's bet — Buzdy in depth
+### 💸 &nbsp; Buzdy — Founder's Flagship Bet
 
 <table>
 <tr>
-<td width="25%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="./assets/buzdy.png" width="140" alt="Buzdy app"/>
+<img src="./assets/buzdy-logo-full.png" width="260" alt="Buzdy — fintech for UAE + KSA"/>
 
 </td>
-<td width="75%" valign="top">
+<td width="65%" valign="top">
 
-**A fintech platform for UAE and KSA** — credit card comparisons + banking analytics, with OpenAI for AI-powered content extraction and Google Custom Search for automated deal discovery across bank websites.
+**A fintech for UAE + KSA.** Compare credit cards, discover bank deals, and track spending — with AI that automatically extracts and ranks offers across bank websites so users don't have to dig through fine print.
 
 ```diff
 + Stack         Flutter · Laravel · Node.js · TypeScript · GraphQL · WebSocket · OpenAI API · Firebase · MySQL
@@ -316,18 +306,87 @@ _Context: Lime Media IPTV_
 ```
 
 <p>
-  <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="38"/></a>
+  <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" height="38"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
-  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="38"/></a>
+  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/Visit-buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="42"/></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-> _I do not only advise founders from the outside. I have sat in the founder seat, carried the delivery pressure, and made the uncomfortable calls._
+<br/>
+
+### 🌱 &nbsp; The Other Four — Built In Parallel
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+<br/>
+
+#### 🤖 &nbsp; Mr Oye
+
+**AI browser extension**
+
+A productivity copilot for the browser — summarize pages, ask anything, automate repetitive flows. **Works with any AI provider** via your own key (BYOK).
+
+`Vanilla JS` · `MV3` · `BYOK AI`
+
+<a href="https://mroye.com"><img src="https://img.shields.io/badge/mroye.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" height="32"/></a>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<br/>
+
+#### 🕌 &nbsp; W3Quran
+
+**Islamic / Quran tech**
+
+A Quran platform built for the long term — recitation, translation, and study tools designed beyond passing trends, for a mission that outlives the news cycle.
+
+`Web` · `Recitation` · `Translation`
+
+<a href="https://w3quran.com"><img src="https://img.shields.io/badge/w3quran.com-009688?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="32"/></a>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<br/>
+
+#### 🤝 &nbsp; Molaqat
+
+**GCC meetings productivity**
+
+A meeting tool designed for the GCC workflow — where regional context (language, schedule conventions, etiquette) is the product, not a bolt-on feature.
+
+`Productivity` · `Region-aware`
+
+<a href="https://molaqat.com"><img src="https://img.shields.io/badge/molaqat.com-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=000000" height="32"/></a>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<br/>
+
+#### 📱 &nbsp; TheAppsFirm
+
+**Mobile apps agency**
+
+The agency arm — practical client delivery across mobile. The cashflow engine that funds the founder bets and keeps the lights on between rounds.
+
+`Mobile` · `End-to-end` · `UAE`
+
+<a href="https://theappsfirm.com"><img src="https://img.shields.io/badge/theappsfirm.com-181717?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="32"/></a>
+
+</td>
+</tr>
+</table>
+
+> _I do not only advise founders from the outside. I have sat in the founder seat, carried the delivery pressure, and made the uncomfortable calls — across **five live ventures**, not just one._
 
 ---
 
