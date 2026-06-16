@@ -479,37 +479,41 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 ## ◢ Mission Control
 
+<sub>_Most of my best code lives in Buzdy and client repos — the green here is my open thinking._</sub>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
+### 📊 &nbsp; Snapshot &nbsp; · &nbsp; 🔥 &nbsp; Streak
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Contribution+Pulse" width="99%"/>
+### 📈 &nbsp; Contribution Pulse
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days" width="99%" alt="Activity graph"/>
+
+### 🎨 &nbsp; Language Mix
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
 
-<br/><br/>
+### 🔬 &nbsp; Deeper Dives
 
 <details>
-<summary><b>🌐 3D Contribution Cube · click to expand</b></summary>
+<summary><b>🌐 &nbsp; 3D Contribution Cube</b></summary>
 <br/>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="99%"/>
-<sub><i>Auto-generated daily via GitHub Actions</i></sub>
+<br/><sub><i>Auto-generated daily via GitHub Actions</i></sub>
 </details>
 
 <details>
-<summary><b>📊 Full Metrics Dashboard · click to expand</b></summary>
+<summary><b>📊 &nbsp; Full Metrics Dashboard</b></summary>
 <br/>
 <img src="./github-metrics.svg" alt="Full metrics" width="99%"/>
-<sub><i>Auto-generated daily via lowlighter/metrics</i></sub>
+<br/><sub><i>Auto-generated daily via lowlighter/metrics</i></sub>
 </details>
 
 <details>
-<summary><b>🐍 Snake Contribution Animation · click to expand</b></summary>
+<summary><b>🐍 &nbsp; Snake Contribution Animation</b></summary>
 <br/>
 <img src="https://raw.githubusercontent.com/ziacto/ziacto/output/snake-dark.svg" alt="Snake" width="99%"/>
 </details>
