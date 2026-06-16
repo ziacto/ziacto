@@ -260,8 +260,8 @@ mindmap
 ### `UAE_PASS`
 **A country's digital identity**
 
-🏛️ &nbsp; National identity infrastructure
-🔐 &nbsp; Secure auth & encryption
+🏛️ &nbsp; National identity infrastructure<br/>
+🔐 &nbsp; Secure auth & encryption<br/>
 👤 &nbsp; Biometric flows
 
 > _Role: **System Developer @ DDA**_
@@ -278,8 +278,8 @@ mindmap
 ### `DUBAI_NOW`
 **The city in your pocket**
 
-📱 &nbsp; City super-app scale
-💳 &nbsp; High-volume payments
+📱 &nbsp; City super-app scale<br/>
+💳 &nbsp; High-volume payments<br/>
 ⚡ &nbsp; Major reliability uplift
 
 > _Role: **System Developer @ DDA**_
@@ -296,8 +296,8 @@ mindmap
 ### `BOTIM`
 **Calls, chat, money — one app**
 
-📥 &nbsp; 100M+ downloads (product)
-🎙️ &nbsp; HD voice & video
+📥 &nbsp; 100M+ downloads (product)<br/>
+🎙️ &nbsp; HD voice & video<br/>
 🌐 &nbsp; AI real-time translation
 
 > _Role: **contributor**_
@@ -314,99 +314,127 @@ mindmap
 ## ◢ The Operator Portfolio
 
 > _Five live ventures. Different stages, different theses, one operator._
-> _The agency funds the products. The products inform the book. The book opens the rooms._
 
 <table>
 <tr>
-<td width="20%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 📖
+
 #### `W3QURAN`
 
 **Islamic + Quran tech**
-for a 1.8B-Muslim market
 
-🕌 &nbsp; web-scale
-🌐 &nbsp; Cloudflare edge
-🎯 &nbsp; civilizational
+<sub>1.8B-Muslim market</sub>
+
+🕌 &nbsp; web-scale platform<br/>
+☁️ &nbsp; Cloudflare edge<br/>
+🎯 &nbsp; civilizational play
 
 <sub>**live · iterating**</sub>
 
-[w3quran.com](https://w3quran.com)
+[**w3quran.com →**](https://w3quran.com)
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 💸
+
 #### `BUZDY`
 
 **Lead engine for banks**
-+ AI crypto signals
 
-📱 &nbsp; iOS · Android · Web
-🤖 &nbsp; AI-driven funnel
+<sub>+ AI crypto signals</sub>
+
+📱 &nbsp; iOS · Android · Web<br/>
+🤖 &nbsp; AI-driven funnel<br/>
 🎯 &nbsp; fintech / GTM
 
 <sub>**live · iterating · hiring**</sub>
 
-[buzdy.com](https://buzdy.com)
+[**buzdy.com →**](https://buzdy.com)
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 🛠️
+
 #### `THE APPS FIRM`
 
 **Apps agency**
-build · ship · support
 
-💼 &nbsp; client engagements
-🌍 &nbsp; Hetzner + Cloudflare
-🎯 &nbsp; cash engine + R&D lab
+<sub>build · ship · support</sub>
+
+💼 &nbsp; client engagements<br/>
+☁️ &nbsp; Hetzner + Cloudflare<br/>
+🎯 &nbsp; cash engine + R&D
 
 <sub>**ongoing · profitable**</sub>
 
-[theappsfirm.com](https://theappsfirm.com)
+[**theappsfirm.com →**](https://theappsfirm.com)
 
 </td>
-<td width="20%" align="center" valign="top">
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 
 ### 🤖
+
 #### `MR OYE`
 
 **AI browser extension**
-your second brain
 
-🌐 &nbsp; Chrome MV3
-🔑 &nbsp; BYOK · vanilla JS
+<sub>your second brain</sub>
+
+🌐 &nbsp; Chrome MV3<br/>
+🔑 &nbsp; BYOK · vanilla JS<br/>
 🎯 &nbsp; productivity
 
 <sub>**live**</sub>
 
-[mroye.com](https://mroye.com)
+[**mroye.com →**](https://mroye.com)
 
 </td>
-<td width="20%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 🤝
+
 #### `MOLAQAT`
 
 **Meetings, reimagined**
-for the GCC region
 
-📅 &nbsp; smart scheduling
-🌍 &nbsp; Arabic-first
+<sub>for the GCC region</sub>
+
+📅 &nbsp; smart scheduling<br/>
+🌍 &nbsp; Arabic-first<br/>
 🎯 &nbsp; productivity / MENA
 
 <sub>**building**</sub>
 
-[molaqat.com](https://molaqat.com)
+[**molaqat.com →**](https://molaqat.com)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ✨
+
+#### `THE PATTERN`
+
+**How the portfolio works**
+
+<sub>capital-efficient by design</sub>
+
+💼 &nbsp; agency funds products<br/>
+🚀 &nbsp; products prove theses<br/>
+📖 &nbsp; book opens rooms
+
+<sub>**no investor pressure**</sub>
+
+_the cap tables are mine_
 
 </td>
 </tr>
 </table>
-
-> 💡 &nbsp; **The pattern:** _agency cash funds product bets — each product proves a thesis the next one extends._ Capital-efficient, founder-led, no investor pressure forcing premature focus. The cap tables are mine.
 
 ---
 
@@ -735,7 +763,7 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 ### 🎓
 #### **Education**
 
-**MS Computer Science**
+**MS Computer Science**<br/>
 _Software Engineering_
 
 University of Lahore
@@ -746,9 +774,9 @@ University of Lahore
 ### 📜
 #### **Certifications**
 
-Google Certified Android
-Flutter Certified Developer
-AWS Solutions Architect
+Google Certified Android<br/>
+Flutter Certified Developer<br/>
+AWS Solutions Architect<br/>
 Certified Ethical Hacker (CEH)
 
 </td>
@@ -757,9 +785,9 @@ Certified Ethical Hacker (CEH)
 ### 🏆
 #### **At-Scale Receipts**
 
-Led engineering teams of **15+**
-Author · "The Unicorn CTO" (95k words)
-Founder of **5 live ventures**
+Led engineering teams of **15+**<br/>
+Author · "The Unicorn CTO" (95k words)<br/>
+Founder of **5 live ventures**<br/>
 National-scale identity systems shipped
 
 </td>
