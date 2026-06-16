@@ -428,9 +428,9 @@ mindmap
 🚀 &nbsp; products prove theses<br/>
 📖 &nbsp; book opens rooms
 
-<sub>**no investor pressure**</sub>
+<sub>**the cap tables are mine**</sub>
 
-_the cap tables are mine_
+[**follow the journey →**](https://github.com/ziacto/unicorn-cto-daily)
 
 </td>
 </tr>
@@ -516,22 +516,6 @@ timeline
        : same discipline, new mission — sustainability-grade systems
   2026 : Open to my next CTO role
        : ready to bring four years of founder experience to one mission
-```
-
----
-
-## ◢ How a CTO Spends a Week
-
-```mermaid
-%%{init: {"theme":"dark","themeVariables":{"pie1":"#1a73e8","pie2":"#ff6b35","pie3":"#22c55e","pie4":"#eab308","pie5":"#a855f7"}}}%%
-pie showData
-  title  Where the hours actually go
-  "Strategy & roadmap"           : 25
-  "1:1s · hiring · org work"     : 25
-  "Architecture & technical calls" : 20
-  "Stakeholders · board · investors" : 15
-  "Hands-on prototyping & review"  : 10
-  "Reading & writing"            : 5
 ```
 
 ---
