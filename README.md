@@ -194,6 +194,8 @@ If you think being CTO means _"senior developer who gets paid more"_ — you'll 
 </tr>
 </table>
 
+> 📓 &nbsp; **Daily footnotes from the book →** &nbsp; one short observation per day on the work most engineers don't see &nbsp; · &nbsp; [⭐ Follow `unicorn-cto-daily`](https://github.com/ziacto/unicorn-cto-daily)
+
 ---
 
 ## ◢ The Mind Map
