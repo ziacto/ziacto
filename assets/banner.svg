@@ -104,24 +104,23 @@
   </g>
 
   <g>
-    <line x1="600" y1="155" x2="600" y2="185" stroke="#ff5e62" stroke-width="1.5" opacity="0.95"/>
-    <circle cx="600" cy="155" r="2.5" fill="#ff5e62">
+    <line x1="600" y1="195" x2="600" y2="215" stroke="#ff5e62" stroke-width="1.5" opacity="0.95"/>
+    <circle cx="600" cy="195" r="2.5" fill="#ff5e62">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <polygon points="585,185 600,170 615,185 615,340 585,340" fill="#000000" stroke="#ffffff" stroke-width="0.6" opacity="0.95"/>
-    <rect x="585" y="185" width="30" height="4" fill="#ff5e62" opacity="0.95"/>
+    <polygon points="585,215 600,205 615,215 615,340 585,340" fill="#000000" stroke="#ffffff" stroke-width="0.6" opacity="0.95"/>
+    <rect x="585" y="215" width="30" height="4" fill="#ff5e62" opacity="0.95"/>
     <g fill="#ff5e62" opacity="0.85">
-      <rect x="593" y="205" width="3" height="3"/><rect x="604" y="205" width="3" height="3"/>
-      <rect x="593" y="215" width="3" height="3"/><rect x="604" y="215" width="3" height="3"/>
-      <rect x="593" y="225" width="3" height="3"/><rect x="604" y="225" width="3" height="3"/>
-      <rect x="593" y="235" width="3" height="3"/><rect x="604" y="235" width="3" height="3"/>
-      <rect x="593" y="245" width="3" height="3"/><rect x="604" y="245" width="3" height="3"/>
-      <rect x="593" y="255" width="3" height="3"/><rect x="604" y="255" width="3" height="3"/>
-      <rect x="593" y="265" width="3" height="3"/><rect x="604" y="265" width="3" height="3"/>
-      <rect x="593" y="275" width="3" height="3"/><rect x="604" y="275" width="3" height="3"/>
-      <rect x="593" y="285" width="3" height="3"/><rect x="604" y="285" width="3" height="3"/>
-      <rect x="593" y="295" width="3" height="3"/><rect x="604" y="295" width="3" height="3"/>
-      <rect x="593" y="305" width="3" height="3"/><rect x="604" y="305" width="3" height="3"/>
+      <rect x="593" y="230" width="3" height="3"/><rect x="604" y="230" width="3" height="3"/>
+      <rect x="593" y="240" width="3" height="3"/><rect x="604" y="240" width="3" height="3"/>
+      <rect x="593" y="250" width="3" height="3"/><rect x="604" y="250" width="3" height="3"/>
+      <rect x="593" y="260" width="3" height="3"/><rect x="604" y="260" width="3" height="3"/>
+      <rect x="593" y="270" width="3" height="3"/><rect x="604" y="270" width="3" height="3"/>
+      <rect x="593" y="280" width="3" height="3"/><rect x="604" y="280" width="3" height="3"/>
+      <rect x="593" y="290" width="3" height="3"/><rect x="604" y="290" width="3" height="3"/>
+      <rect x="593" y="300" width="3" height="3"/><rect x="604" y="300" width="3" height="3"/>
+      <rect x="593" y="310" width="3" height="3"/><rect x="604" y="310" width="3" height="3"/>
+      <rect x="593" y="320" width="3" height="3"/><rect x="604" y="320" width="3" height="3"/>
     </g>
     <text x="600" y="362" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="9" fill="#ffffff" letter-spacing="2">DUBAI_NOW</text>
   </g>
@@ -140,10 +139,10 @@
     <text x="980" y="237" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="9" fill="#ffffff" letter-spacing="2">BUZDY</text>
   </g>
 
-  <path d="M 222,225 Q 400,200 600,170" stroke="#00b4d8" stroke-width="1.2" fill="none" stroke-dasharray="3 5" opacity="0.6">
+  <path d="M 222,225 Q 400,215 600,205" stroke="#00b4d8" stroke-width="1.2" fill="none" stroke-dasharray="3 5" opacity="0.6">
     <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="3s" repeatCount="indefinite"/>
   </path>
-  <path d="M 600,170 Q 780,200 980,245" stroke="#ff9000" stroke-width="1.2" fill="none" stroke-dasharray="3 5" opacity="0.6">
+  <path d="M 600,205 Q 780,225 980,245" stroke="#ff9000" stroke-width="1.2" fill="none" stroke-dasharray="3 5" opacity="0.6">
     <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="3.5s" repeatCount="indefinite"/>
   </path>
 

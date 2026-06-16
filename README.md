@@ -172,7 +172,7 @@ mindmap
 
 ---
 
-## ◢ Products I've Led
+## ◢ Products I've Been Part Of
 
 <table>
 <tr>
