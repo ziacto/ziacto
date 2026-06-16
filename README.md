@@ -14,17 +14,50 @@
 
 ### Senior Mobile Architect · Founder & CTO at Buzdy · Author of *The Unicorn CTO*
 
-<sub>**Dubai, UAE** &nbsp;·&nbsp; **12+ years** &nbsp;·&nbsp; shipping mobile across **government · fintech · defense · telecom**</sub>
+<sub>📍 &nbsp; **Dubai, UAE** &nbsp;·&nbsp; ⏳ &nbsp; **12+ years** &nbsp;·&nbsp; 🏛️ government &nbsp;·&nbsp; 💸 fintech &nbsp;·&nbsp; 🛡️ defense &nbsp;·&nbsp; 📡 telecom</sub>
 
 <br/>
 
-<sub>**2M+ daily users** &nbsp;·&nbsp; **$10M+/month transactions** &nbsp;·&nbsp; **99.99% uptime** &nbsp;·&nbsp; **20+ engineer teams led** &nbsp;·&nbsp; **100K+ Udemy students**</sub>
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+#### 👥 &nbsp; **2M+**
+<sub>**DAILY USERS**<br/>on Dubai Now</sub>
+
+</td>
+<td align="center" width="20%">
+
+#### 💸 &nbsp; **$10M+**
+<sub>**MONTHLY TX**<br/>processed</sub>
+
+</td>
+<td align="center" width="20%">
+
+#### ⚡ &nbsp; **99.99%**
+<sub>**UPTIME**<br/>DDA microservices</sub>
+
+</td>
+<td align="center" width="20%">
+
+#### 🧑‍💼 &nbsp; **20+**
+<sub>**ENGINEERS LED**<br/>cross-functional team</sub>
+
+</td>
+<td align="center" width="20%">
+
+#### 🎓 &nbsp; **100K+**
+<sub>**UDEMY STUDENTS**<br/>taught</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="mailto:info@theappsfirm.com?subject=Intro%20call%20—%20from%20your%20GitHub"><img src="https://img.shields.io/badge/_BOOK_A_20--MIN_INTRO_CALL_→-1a73e8?style=for-the-badge&labelColor=000000" height="44" alt="Book a 20-minute intro call"/></a>
+<a href="mailto:info@theappsfirm.com?subject=Intro%20call%20—%20from%20your%20GitHub"><img src="https://img.shields.io/badge/_📅_BOOK_A_20--MIN_INTRO_CALL_→-1a73e8?style=for-the-badge&labelColor=000000" height="46" alt="Book a 20-minute intro call"/></a>
 
-<sub>_Talk to me about:_ &nbsp; **Fractional CTO · Head of Mobile · Founding CTO · Advisory** &nbsp;·&nbsp; <a href="#-lets-talk">other channels ↓</a></sub>
+<sub>💼 _Talk to me about:_ &nbsp; **Fractional CTO · Head of Mobile · Founding CTO · Advisory** &nbsp;·&nbsp; <a href="#-lets-talk">other channels ↓</a></sub>
 
 </div>
 
