@@ -1,12 +1,7 @@
 <!--
-  ──────────────────────────────────────────────────────────────────
-  You opened the source. Respect.
-  This profile is positioned for one thing: hiring me as a CTO,
-  not as a senior developer. Twelve years in, the technical work
-  is the floor — leadership outcomes are the ceiling.
-  If you're recruiting, advising, or investing — let's talk.
-  — Zia
-  ──────────────────────────────────────────────────────────────────
+  Zia Shahid — GitHub Profile README
+  Positioning: CTO · Fractional CTO · Founder-Operator
+  Hand-crafted. Built to be read by founders, recruiters, investors, and serious engineers.
 -->
 
 <div align="center">
@@ -15,7 +10,11 @@
 
 <br/>
 
-<sub>**Engineering leader · serial founder · author of [_The Unicorn CTO_](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8) · led 15+ engineers across 5 ventures · based in Dubai**</sub>
+# Muhammad Zia Shahid
+
+### CTO-minded engineering leader · Founder-operator · Mobile-first architect
+
+<sub>**Dubai, UAE** &nbsp;·&nbsp; 12+ years &nbsp;·&nbsp; 5 live ventures &nbsp;·&nbsp; Author of [_The Unicorn CTO_](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8)</sub>
 
 <br/>
 
@@ -27,129 +26,60 @@
 
 <br/>
 
-> _Most engineers write code._
-> _Senior engineers write systems._
-> _CTOs write the **decisions** that decide which systems exist at all._
->
-> — _that's the seat I'm in._
+> **I build the engineering machine behind products:**
+> strategy, architecture, hiring, delivery, security, infrastructure — and the hard calls in between.
 
 ---
 
-## ◢ Hi, I'm Zia.
+## 🧭 Profile in One Page
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Area | Signal |
+|---|---|
+| **Current direction** | Open to **CTO · Fractional CTO · Founding CTO · Board / Advisory** |
+| **Base** | Dubai, UAE &nbsp;·&nbsp; UTC+4 |
+| **Background** | 12+ years across mobile engineering, government-scale systems, product leadership, and founder-led execution |
+| **Leadership scope** | Led engineering teams of **15+** across ventures and prior roles |
+| **Founder portfolio** | [Buzdy](https://buzdy.com) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com) |
+| **Author** | _The Unicorn CTO_ — 35 chapters · ~95,000 words · Dec 2025 |
+| **Operating style** | Hands-on when needed · strategic when it matters · accountable always |
+| **Stack DNA** | Mobile-first (Kotlin · Flutter) · Python backend · AWS · own infra (Hetzner · Cloudflare) · AI-native (Claude Code · OpenAI CLI) |
 
-### Twelve years in.
-### Two tracks. Five ventures.
-### One continuous arc.
+---
 
-I'm an **engineering leader** who's shipped products to entire countries — and a **serial founder** running five ventures in parallel. I've **led 15+ engineers**, written the book on the CTO role, and I still **run my own production infra**.
+## ✨ What Makes This Profile Different
 
-</td>
-<td width="50%" valign="middle">
+> Most technical profiles show tools.
+> This profile shows **judgment**.
 
-<table>
-<tr>
-<td align="center" width="50%"><h2>12+</h2><sub><b>YEARS BUILDING</b></sub></td>
-<td align="center" width="50%"><h2>5</h2><sub><b>LIVE VENTURES</b></sub></td>
-</tr>
-<tr>
-<td align="center"><h2>15+</h2><sub><b>ENGINEERS LED</b></sub></td>
-<td align="center"><h2>95K</h2><sub><b>WORDS PUBLISHED</b></sub></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
+I've worked across **three very different stages** of technology work — most engineers see one or two.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🛡️ &nbsp; Day job
+### 🏛️ &nbsp; Government Scale
 
-System Developer at **Estidama** (Abu Dhabi) — sustainability-grade systems.
+Contributed to **national and city-scale digital platforms** in the UAE ecosystem.
 
-_Previously: 4 yrs at **Digital Dubai Authority** — contributed to UAE PASS + Dubai Now._
-
-</td>
-<td width="33%" valign="top">
-
-#### 🚀 &nbsp; Founder track
-
-CEO & operating CTO of **5 live ventures**:
-
-[Buzdy](https://buzdy.com) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com)
+**Focus:** reliability, security, identity, regulated flows, production discipline.
 
 </td>
 <td width="33%" valign="top">
 
-#### 🛠️ &nbsp; Hands-on
+### 🚀 &nbsp; Founder Scale
 
-Production infra end-to-end: **Hetzner · aaPanel · Cloudflare**.
+Built and operated **multiple ventures from idea to live product**.
 
-No SRE team between me and the box. AI-native — **Claude Code + OpenAI CLI** in daily workflow.
-
-</td>
-</tr>
-</table>
-
-> ✨ &nbsp; **I haven't been "preparing" for a CTO role. I've been operating as one across five companies for four years.**
-> Now open to bringing that full conviction to one mission — **full-time, fractional, or board.**
-
----
-
-## ◢ What I Do as CTO
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### 🧭 &nbsp; Set Technical Direction
-
-Translate business strategy into a roadmap engineers can ship — and stakeholders can fund.
+**Focus:** speed, GTM, hiring, infrastructure, product-market learning.
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-#### 👥 &nbsp; Design the Organisation
+### 🧠 &nbsp; CTO Scale
 
-Build the team that builds the product. Hiring, levelling, comp, on-call, performance — the whole machine.
+Turned **technical decisions into business outcomes**.
 
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🏗️ &nbsp; Own the Architecture
-
-Make the calls only the CTO can make: build vs buy, monolith vs micro, cloud vs on-prem, regulated vs fast.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### 🛡️ &nbsp; Manage Risk
-
-Security, compliance, uptime, data, vendor lock-in, key-person risk. The chief de-risker.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🗣️ &nbsp; Represent Engineering
-
-To the board. To investors. To regulators. To the rest of the org. Engineering's voice in every room.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### ⚒️ &nbsp; Stay Hands-On When It Matters
-
-Prototype the new thing. Debug the worst incident. Review the highest-risk PR. Lead from the front.
+**Focus:** roadmap, architecture, team design, risk, delivery, board-level communication.
 
 </td>
 </tr>
@@ -157,169 +87,113 @@ Prototype the new thing. Debug the worst incident. Review the highest-risk PR. L
 
 ---
 
-## ◢ I Wrote the Book — Literally
-
-> _Unpopular opinion: **most developers should NOT become CTOs.**_
-> _Not because they aren't smart enough — because they don't understand what the job actually is._
-
-<div align="center">
-
-<br/>
-
-<a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
-  <img src="./assets/unicorn-cto-book.png" width="240" alt="The Unicorn CTO — book cover"/>
-</a>
-
-### 🦄 &nbsp; The Unicorn CTO
-
-**35 chapters &nbsp;·&nbsp; ~95,000 words &nbsp;·&nbsp; the playbook I wish existed when I started**
-
-<p>
-  <a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8"><img src="https://img.shields.io/badge/_BUY_ON_AMAZON_-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000" alt="Buy on Amazon" height="40"/></a>
-  &nbsp;
-  <a href="https://play.google.com/store/books?q=The+Unicorn+CTO+Zia+Shahid"><img src="https://img.shields.io/badge/_GOOGLE_PLAY_BOOKS_-4285F4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Google Play Books" height="40"/></a>
-  &nbsp;
-  <a href="https://www.goodreads.com/author/show/20454809.Zia_Shahid"><img src="https://img.shields.io/badge/_READ_REVIEWS_-372213?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000" alt="Read reviews" height="40"/></a>
-</p>
-
-</div>
+## 🧩 What I Do as a CTO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📖 &nbsp; The pitch
+### 01 · Technical Direction
 
-I watched too many brilliant engineers crash and burn in leadership because **no one told them what the job really requires**. So I wrote it.
+I translate messy business goals into technical priorities engineers can actually ship.
 
-If you think being CTO means _"senior developer who gets paid more"_ — you'll fail. **This is the unfiltered playbook.**
-
-> _If a recruiter wants to know how I think about the CTO seat — that's where to start._
+- Architecture direction
+- Build vs buy decisions
+- Delivery sequencing
+- Platform choices
+- Technical debt strategy
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 &nbsp; What's inside
+### 02 · Engineering Organisation
 
-- The mindset shift that trips up **90% of new leaders**
-- Office politics (yes, you have to play)
-- Managing the **12 types of problem employees**
-- Budget and **P&L ownership**
-- Building and scaling teams
-- Staying technical while leading
+I build the team that builds the product.
+
+- Hiring plans · role clarity · levelling
+- Performance management
+- Team rituals · delivery ownership
+- On-call · incident review
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Product + Execution
+
+I stay close to the customer, not only the code.
+
+- MVP definition · launch planning
+- Reliability tradeoffs
+- Product analytics
+- Fast iteration loops
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Risk + Trust
+
+I treat security, uptime, and compliance as product features.
+
+- Authentication · payments · data protection
+- Vendor risk · incident response
+- Production ownership
+- Stakeholder + board communication
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-> _**The CTO role, by hours:** Technology 20 &nbsp;·&nbsp; People 30 &nbsp;·&nbsp; Politics 30 &nbsp;·&nbsp; Strategy 20_
-> _If you only trained for the first one, you're not ready for the seat._
-
-</div>
-
-<div align="center">
-
-📓 &nbsp; **Daily footnotes from the book →** &nbsp; one short observation per day on the work most engineers don't see &nbsp; · &nbsp; [⭐ Follow `unicorn-cto-daily`](https://github.com/ziacto/unicorn-cto-daily)
-
-</div>
-
 ---
 
-## ◢ The Mind Map
-
-```mermaid
-mindmap
-  root((Zia Shahid<br/>CTO))
-    Leadership
-      Org Design
-      Hiring & Levelling
-      Performance & Coaching
-      Board & Investor Relations
-      Vision & Strategy
-    Product
-      0 to 1 Builds
-      National-scale Scaling
-      Regulated Industries
-      Smart-City Platforms
-      Fintech
-    Architecture
-      Mobile First
-      Microservices
-      Cloud Native
-      Security by Design
-      Build vs Buy Calls
-    Hands-on Stack
-      Kotlin · Flutter · Python
-      AWS · K8s · Terraform
-      OAuth2 · Biometric · JWT
-      Postgres · Redis · Kafka
-    Founder Mode
-      Buzdy thesis
-      0 to 1 product
-      Hiring early team
-      Bank GTM
-```
-
----
-
-## ◢ Products I've Been Part Of
+## 🏗️ Selected Systems & Products
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/uaepass.png" width="128" alt="UAE PASS"/>
+<img src="./assets/uaepass.png" width="120" alt="UAE PASS"/>
 
-### `UAE_PASS`
-**A country's digital identity**
+### UAE PASS
 
-🏛️ &nbsp; National identity infrastructure<br/>
-🔐 &nbsp; Secure auth & encryption<br/>
-👤 &nbsp; Biometric flows
+**National digital identity ecosystem**
 
-> _Role: **System Developer @ DDA**_
-> _Scope: **national**_
+`identity` · `security` · `mobile` · `regulated`
 
-<br/>
+_Role: **System Developer**_
+_Context: Digital Dubai Authority_
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/dubainow.png" width="128" alt="Dubai Now"/>
+<img src="./assets/dubainow.png" width="120" alt="Dubai Now"/>
 
-### `DUBAI_NOW`
-**The city in your pocket**
+### Dubai Now
 
-📱 &nbsp; City super-app scale<br/>
-💳 &nbsp; High-volume payments<br/>
-⚡ &nbsp; Major reliability uplift
+**City super-app for residents and services**
 
-> _Role: **System Developer @ DDA**_
-> _Scope: **city-wide**_
+`mobile` · `payments` · `scale` · `service delivery`
 
-<br/>
+_Role: **System Developer**_
+_Context: Digital Dubai Authority_
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/botim.png" width="128" alt="BotIM"/>
+<img src="./assets/botim.png" width="120" alt="BotIM"/>
 
-### `BOTIM`
+### BotIM
+
 **Calls, chat, money — one app**
 
-📥 &nbsp; 100M+ downloads (product)<br/>
-🎙️ &nbsp; HD voice & video<br/>
-🌐 &nbsp; AI real-time translation
+`messaging` · `voip` · `AI translation` · `payments`
 
-> _Role: **contributor**_
-> _Scope: **global**_
-
-<br/>
+_Role: **Contributor**_
+_Scope: Global product_
 
 </td>
 </tr>
@@ -327,358 +201,167 @@ mindmap
 
 ---
 
-## ◢ The Operator Portfolio
+## 🧪 The Operator Portfolio
 
-> _Five live ventures. Different stages, different theses, one operator._
+> _Five live ventures. Capital-efficient by design — the agency funds the products, the products inform the book, the book opens the rooms._
+
+| Venture | Category | What it proves |
+|---|---|---|
+| [**Buzdy**](https://buzdy.com) | Fintech · AI · mobile | I can build a product thesis, ship it, and iterate in public |
+| [**TheAppsFirm**](https://theappsfirm.com) | Apps agency | I understand client delivery, cashflow, and practical execution |
+| [**W3Quran**](https://w3quran.com) | Islamic / Quran tech | I build beyond trends when the mission matters |
+| [**Mr Oye**](https://mroye.com) | AI browser extension | I work AI-native and ship productivity tools |
+| [**Molaqat**](https://molaqat.com) | Meetings / GCC productivity | I understand region-specific product opportunities |
+
+<br/>
+
+### 💸 &nbsp; Founder's bet — Buzdy in depth
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-
-### 📖
-
-#### `W3QURAN`
-
-**Islamic + Quran tech**
-
-<sub>1.8B-Muslim market</sub>
-
-🕌 &nbsp; web-scale platform<br/>
-☁️ &nbsp; Cloudflare edge<br/>
-🎯 &nbsp; civilizational play
-
-<sub>**live · iterating**</sub>
-
-[**w3quran.com →**](https://w3quran.com)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 💸
-
-#### `BUZDY`
-
-**Lead engine for banks**
-
-<sub>+ AI crypto signals</sub>
-
-📱 &nbsp; iOS · Android · Web<br/>
-🤖 &nbsp; AI-driven funnel<br/>
-🎯 &nbsp; fintech / GTM
-
-<sub>**live · iterating · hiring**</sub>
-
-[**buzdy.com →**](https://buzdy.com)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🛠️
-
-#### `THE APPS FIRM`
-
-**Apps agency**
-
-<sub>build · ship · support</sub>
-
-💼 &nbsp; client engagements<br/>
-☁️ &nbsp; Hetzner + Cloudflare<br/>
-🎯 &nbsp; cash engine + R&D
-
-<sub>**ongoing · profitable**</sub>
-
-[**theappsfirm.com →**](https://theappsfirm.com)
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🤖
-
-#### `MR OYE`
-
-**AI browser extension**
-
-<sub>your second brain</sub>
-
-🌐 &nbsp; Chrome MV3<br/>
-🔑 &nbsp; BYOK · vanilla JS<br/>
-🎯 &nbsp; productivity
-
-<sub>**live**</sub>
-
-[**mroye.com →**](https://mroye.com)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🤝
-
-#### `MOLAQAT`
-
-**Meetings, reimagined**
-
-<sub>for the GCC region</sub>
-
-📅 &nbsp; smart scheduling<br/>
-🌍 &nbsp; Arabic-first<br/>
-🎯 &nbsp; productivity / MENA
-
-<sub>**building**</sub>
-
-[**molaqat.com →**](https://molaqat.com)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ✨
-
-#### `THE PATTERN`
-
-**How the portfolio works**
-
-<sub>capital-efficient by design</sub>
-
-💼 &nbsp; agency funds products<br/>
-🚀 &nbsp; products prove theses<br/>
-📖 &nbsp; book opens rooms
-
-<sub>**the cap tables are mine**</sub>
-
-[**follow the journey →**](https://github.com/ziacto/unicorn-cto-daily)
-
-</td>
-</tr>
-</table>
-
----
-
-## ◢ Founder's Lens — `BUZDY`
-
-<div align="center">
-
-> _The clearest signal a CTO can offer is this: I've sat in the founder's seat too._
-> _I know what your CEO needs from me, because I've been the CEO too._
-
-<br/>
+<td width="25%" align="center" valign="middle">
 
 <img src="./assets/buzdy.png" width="140" alt="Buzdy app"/>
 
-### **A lead engine for banks — built from zero by me.**
-
-<p>
-  <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store" height="42"/></a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Get it on Google Play" height="42"/></a>
-  &nbsp;
-  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/_buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Buzdy.com" height="42"/></a>
-</p>
-
-<sub>_iOS · Android · Web &nbsp; — &nbsp; live · iterating · hiring quietly_</sub>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 The Problem
-Banks burn millions chasing leads that convert at single-digit rates. Most "fintech leads" are noise dressed as signal.
-
 </td>
-<td width="50%" valign="top">
+<td width="75%" valign="top">
 
-#### 💡 The Bet
-A consumer product delivering real-time crypto signals, bank intelligence, and AI-driven coin analysis — that **self-qualifies users** as high-intent leads in the process.
-
-</td>
-</tr>
-</table>
+**A lead engine for banks** — real-time crypto signals + AI coin analysis that **self-qualifies users** as high-intent leads in the funnel.
 
 ```diff
-+ Founder & CTO    — thesis, product, team, GTM
-+ Stack            — Android · Flutter · Python · AI · AWS
-+ Status           — Live on Google Play · iterating fast
-+ Looking for      — design partners (banks, fintechs) · advisors
++ Stack         Android · Flutter · Python · AI · AWS
++ Footprint     iOS · Android · Web
++ Status        Live · iterating · hiring quietly
++ Looking for   design partners (banks, fintechs) · advisors
 ```
 
-> **Why it matters for hiring me:** I've owned the CTO seat at every stage — government-scale (UAE PASS), city-scale (Dubai Now), and 0 → 1 (Buzdy). I know what each stage needs from its CTO — and it's not the same answer.
-
----
-
-## ◢ Twelve Years in Motion
-
-```mermaid
-timeline
-  title From IC to CTO
-  2012 : MS in Computer Science · University of Lahore
-       : the floor under everything that followed
-  2014 : First Android app shipped
-       : learned that real users are the only honest reviewer
-  2017 : Lead Android Developer
-       : my first taste of leading people, not just code
-  2019 : Launched Udemy Masterclass · 10k+ students
-       : teaching forced me to articulate what I knew
-  2021 : Joined Digital Dubai Authority · System Developer
-       : shipped into UAE PASS — a country's digital identity
-  2022 : Founded Buzdy · CEO & CTO in parallel
-       : the day the founder seat became permanent
-  2023 : Dubai Now at 2M+ users
-       : code I shipped started running on millions of phones
-  2025 : Moved to Estidama · System Developer (day) · Buzdy continues
-       : same discipline, new mission — sustainability-grade systems
-  2026 : Open to my next CTO role
-       : ready to bring four years of founder experience to one mission
-```
-
----
-
-## ◢ How I Operate
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<details open>
-<summary><b>🧭 Operating Principles</b></summary>
-<br/>
-
-- **The CTO's job is to make irreversible decisions reversible.** Optionality is a deliverable.
-- **Hire slow, fire kind, level honestly.** Most engineering pain is org pain wearing a tech mask.
-- **Boring tech, bold outcomes.** Postgres still wins.
-- **Security is a product feature, not a phase.**
-- **Mentorship multiplies output more than any framework choice.**
-- **Read the docs. All of them. Yes, the changelog too.**
-
-</details>
-
-<details>
-<summary><b>⚡ My decision framework</b></summary>
-<br/>
-
-For any technical call I sequence three questions:
-
-1. **Is it safe?** (security, privacy, uptime, compliance)
-2. **Is it kind?** (UX, error states, accessibility, on-call sanity)
-3. **Is it fast?** (perf, dev velocity, time-to-feedback)
-
-If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of deadline pressure.
-
-</details>
-
-<details>
-<summary><b>🧠 How I hire</b></summary>
-<br/>
-
-- **Slope, not intercept.** A junior who shipped weekly beats a senior who's been "ramping" for six months.
-- **Strong opinions, loosely held.** Strong opinions tightly held are a culture tax.
-- **Self-management is the level-up.** I don't promote IC excellence to manage other ICs unless they want it.
-- **Comp is a strategy lever, not an HR formality.**
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-<details open>
-<summary><b>🎯 What I'm Open To</b></summary>
-<br/>
-
-- **Full-time CTO** at a Series A → Series C product company
-- **Fractional CTO** (1–2 days/week, 6–12 month engagements)
-- **Board / Advisory** seats — engineering, product, security
-- **Founding CTO** roles where I can build the engineering DNA from week one
-- Pre-conditions: real users, real stakes, mission I can defend
-
-</details>
-
-<details>
-<summary><b>🔬 Currently in the Lab</b></summary>
-<br/>
-
-- 🧪 Compose Multiplatform — one codebase, every screen
-- 🤖 LLM agents inside engineering workflows
-- 📡 Edge ML for IoT pipelines
-- 🔐 Zero-knowledge auth flows
-- 📚 Writing — short essays on engineering leadership
-- 🎙️ Open to podcast invites & executive forums
-
-</details>
-
-<details>
-<summary><b>🚫 Not interested in</b></summary>
-<br/>
-
-- Pre-revenue with no thesis
-- "CTO" titles that are actually tech-lead roles
-- Crypto-token launches
-- Hype cycles dressed as strategy
-
-</details>
+<p>
+  <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="38"/></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" height="38"/></a>
+  &nbsp;
+  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="38"/></a>
+</p>
 
 </td>
 </tr>
 </table>
 
+> _I do not only advise founders from the outside. I have sat in the founder seat, carried the delivery pressure, and made the uncomfortable calls._
+
 ---
 
-## ◢ Mission Control
-
-<sub>_Most of my best code lives in Buzdy and client repos — the green here is my open thinking._</sub>
+## 🦄 The Unicorn CTO — I wrote the book
 
 <div align="center">
 
-### 📊 &nbsp; Snapshot &nbsp; · &nbsp; 🔥 &nbsp; Streak
+<a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
+  <img src="./assets/unicorn-cto-book.png" width="240" alt="The Unicorn CTO book cover"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" alt="Streak" />
+**35 chapters &nbsp;·&nbsp; ~95,000 words &nbsp;·&nbsp; published Dec 2025**
 
-### 📈 &nbsp; Contribution Pulse
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days" width="99%" alt="Activity graph"/>
-
-### 🎨 &nbsp; Language Mix
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
-
-### 🔬 &nbsp; Deeper Dives
-
-<details>
-<summary><b>🌐 &nbsp; 3D Contribution Cube</b></summary>
-<br/>
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="99%"/>
-<br/><sub><i>Auto-generated daily via GitHub Actions</i></sub>
-</details>
-
-<details>
-<summary><b>📊 &nbsp; Full Metrics Dashboard</b></summary>
-<br/>
-<img src="./github-metrics.svg" alt="Full metrics" width="99%"/>
-<br/><sub><i>Auto-generated daily via lowlighter/metrics</i></sub>
-</details>
-
-<details>
-<summary><b>🐍 &nbsp; Snake Contribution Animation</b></summary>
-<br/>
-<img src="https://raw.githubusercontent.com/ziacto/ziacto/output/snake-dark.svg" alt="Snake" width="99%"/>
-</details>
+<p>
+  <a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8"><img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000" height="40"/></a>
+  &nbsp;
+  <a href="https://play.google.com/store/books?q=The+Unicorn+CTO+Zia+Shahid"><img src="https://img.shields.io/badge/Google_Play_Books-4285F4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" height="40"/></a>
+  &nbsp;
+  <a href="https://github.com/ziacto/unicorn-cto-daily"><img src="https://img.shields.io/badge/Follow_daily_notes-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/></a>
+</p>
 
 </div>
 
+<br/>
+
+> **A strong CTO is not a senior developer with a louder title.**
+> A strong CTO protects the company from bad technical decisions, bad hiring systems, bad incentives, and fake velocity.
+
+**Inside:** the mindset shift that trips up 90% of new leaders · office politics · managing the 12 types of problem employees · budget & P&L ownership · building & scaling teams · staying technical while leading.
+
 ---
 
-## ◢ The Workshop · hands-on stack
+## 📍 Career Path
+
+```mermaid
+timeline
+  title From IC to CTO · twelve years in motion
+  2012 : MS Computer Science · University of Lahore
+  2014 : First Android app shipped
+  2017 : Lead Android Developer
+  2019 : Launched Udemy Masterclass · 10K+ students
+  2021 : Joined Digital Dubai Authority as System Developer
+       : shipped into UAE PASS and Dubai Now
+  2022 : Founded Buzdy · CEO & operating CTO in parallel
+  2023 : Dubai Now reaches super-app scale
+  2025 : Moved to Estidama · sustainability systems · Buzdy continues
+  2026 : Published *The Unicorn CTO* · open to next CTO seat
+```
+
+---
+
+## 🧠 My Operating Manual
+
+<details open>
+<summary><b>Principles I actually use</b></summary>
+<br/>
+
+- **Boring technology, bold outcomes.** I prefer stable tools and aggressive execution.
+- **Architecture is a business decision.** Every technical choice creates cost, speed, risk, or leverage.
+- **Security is not a checklist.** It is part of the product experience.
+- **A team without ownership becomes a ticket factory.**
+- **The best CTO is close enough to code to know reality, and far enough from code to see the business.**
+
+</details>
 
 <details>
-<summary><b>📱 Mobile · where I'm at home</b></summary>
+<summary><b>How I make technical decisions</b></summary>
+<br/>
+
+For every major technical call, I ask:
+
+1. **Is it safe?** Security, privacy, uptime, compliance.
+2. **Is it kind?** UX, error states, support load, on-call sanity.
+3. **Is it fast?** Delivery speed, feedback loop, performance.
+
+If speed requires breaking safety or kindness, it's the wrong speed.
+
+</details>
+
+<details>
+<summary><b>How I think about hiring</b></summary>
+<br/>
+
+- **Hire for slope, not only current level.**
+- **Promote ownership, not noise.**
+- **Don't confuse confidence with competence.**
+- **Give clear standards before judging performance.**
+- **Protect strong engineers from broken process.**
+
+</details>
+
+<details>
+<summary><b>What I'm currently exploring</b></summary>
+<br/>
+
+- Compose Multiplatform — one codebase, every screen
+- LLM agents inside engineering workflows
+- Edge ML for IoT pipelines
+- Zero-knowledge auth flows
+- Public-sector tech for the GCC
+
+</details>
+
+---
+
+## 🛠️ Technical Stack
+
+<details open>
+<summary><b>📱 &nbsp; Mobile · where I'm at home</b></summary>
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -686,7 +369,7 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 </details>
 
 <details>
-<summary><b>🐍 Backend & Data · where the truth lives</b></summary>
+<summary><b>🐍 &nbsp; Backend, cloud & data</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -694,26 +377,27 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps · where it stays up</b></summary>
+<summary><b>🏗️ &nbsp; Infrastructure I run myself · no SRE between me and the box</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=for-the-badge&logo=plesk&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🛡️ Security · where I refuse to compromise</b></summary>
+<summary><b>🛡️ &nbsp; Security · where I refuse to compromise</b></summary>
 <br/>
 
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
@@ -725,43 +409,60 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 </details>
 
 <details>
-<summary><b>🏗️ Infrastructure I run myself · no SRE between me and the box</b></summary>
-<br/>
-
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=for-the-badge&logo=plesk&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<sub>_I provision, deploy, monitor, and keep alive the production stacks behind 5 live ventures. Hands-on, not abstracted._</sub>
-
-</details>
-
-<details>
-<summary><b>🤖 AI-native workflow · how I move 3x faster</b></summary>
+<summary><b>🤖 &nbsp; AI-native workflow · how I move faster</b></summary>
 <br/>
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-<sub>_LLM agents in my daily IDE workflow. CI pipelines that review their own PRs. The CTOs who refuse this stack will be 3 years behind in 18 months._</sub>
 
 </details>
 
 ---
 
-## ◢ Credentials & Receipts
+## 📊 GitHub Mission Control
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Contribution+Pulse" width="99%" alt="Activity graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
+
+<details>
+<summary><b>🌐 &nbsp; 3D Contribution Cube</b></summary>
+<br/>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="99%"/>
+</details>
+
+<details>
+<summary><b>📊 &nbsp; Full Metrics Dashboard</b></summary>
+<br/>
+<img src="./github-metrics.svg" alt="Full metrics" width="99%"/>
+</details>
+
+<details>
+<summary><b>🐍 &nbsp; Snake Contribution Animation</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/ziacto/ziacto/output/snake-dark.svg" alt="Snake" width="99%"/>
+</details>
+
+</div>
+
+<sub>_Most of my best code lives in client and venture private repos — the public green is my open thinking._</sub>
+
+---
+
+## 🧾 Credentials & Receipts
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🎓
-#### **Education**
+### 🎓 &nbsp; Education
 
 **MS Computer Science**<br/>
 _Software Engineering_
@@ -771,8 +472,7 @@ University of Lahore
 </td>
 <td width="33%" align="center" valign="top">
 
-### 📜
-#### **Certifications**
+### 📜 &nbsp; Certifications
 
 Google Certified Android<br/>
 Flutter Certified Developer<br/>
@@ -782,13 +482,12 @@ Certified Ethical Hacker (CEH)
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🏆
-#### **At-Scale Receipts**
+### 🏆 &nbsp; Signals
 
-Led engineering teams of **15+**<br/>
-Author · "The Unicorn CTO" (95k words)<br/>
-Founder of **5 live ventures**<br/>
-National-scale identity systems shipped
+12+ years in engineering<br/>
+15+ engineers led<br/>
+5 live ventures founded<br/>
+Author · _The Unicorn CTO_
 
 </td>
 </tr>
@@ -796,69 +495,41 @@ National-scale identity systems shipped
 
 ---
 
+<div id="-lets-talk"></div>
+
+## 🤝 Let's Talk
+
 <div align="center">
 
-## ◢ Let's Talk
-
-I read every message. I reply to the serious ones.
-If you're **hiring a CTO**, looking for a **fractional**, building a **board**, or running a **problem worth a decade** — I'd like to hear about it.
+I'm most interested in **serious technical leadership conversations**:
+CTO roles · fractional CTO · founding teams · advisory seats · ambitious products with real users.
 
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammadziashahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="42"/></a>
+  <a href="https://www.linkedin.com/in/muhammadziashahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
-  <a href="mailto:info@theappsfirm.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="42"/></a>
+  <a href="mailto:info@theappsfirm.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
-  <a href="https://github.com/ziacto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" height="42"/></a>
+  <a href="https://github.com/ziacto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
-  <a href="https://www.udemy.com/course/full-stack-mobile-application-development-master-class/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" alt="Udemy" height="42"/></a>
-  &nbsp;
-  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/Buzdy-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Buzdy" height="42"/></a>
+  <a href="https://www.udemy.com/course/full-stack-mobile-application-development-master-class/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" height="42"/></a>
 </p>
 
-<sub>
-  <b>LinkedIn</b> · preferred for hiring &nbsp;|&nbsp;
-  <b>Email</b> · direct + private &nbsp;|&nbsp;
-  <b>GitHub</b> · where my work lives &nbsp;|&nbsp;
-  <b>Udemy</b> · 10k+ students &nbsp;|&nbsp;
-  <b>Buzdy</b> · what I'm building
-</sub>
+> **Best channel for hiring →** LinkedIn
+> **Best channel for private conversations →** Email
 
-<br/>
-
-> _You scrolled the whole thing._
-> _That's the kind of attention I hire for — and the kind I bring._
->
-> **— Zia**
-
-<br/>
+</div>
 
 ---
 
-### 🪄 &nbsp; Like this profile? Make it yours.
+<div align="center">
 
-This README is **open-source and built to fork**. Hand-coded SVG banner, Mermaid diagrams, custom workflows, modular sections — all yours to remix.
-
-<p>
-  <a href="https://github.com/ziacto/ziacto/fork"><img src="https://img.shields.io/badge/_FORK_THIS_PROFILE_-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Fork this profile"/></a>
-  &nbsp;
-  <a href="./TEMPLATE.md"><img src="https://img.shields.io/badge/_HOW_TO_CUSTOMIZE_-1a73e8?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000000" alt="Customization guide"/></a>
-  &nbsp;
-  <a href="https://github.com/ziacto/ziacto/stargazers"><img src="https://img.shields.io/github/stars/ziacto/ziacto?style=for-the-badge&color=eab308&labelColor=000000&label=%E2%98%85%20STAR" alt="Star the repo"/></a>
-</p>
-
-<sub>_If you use it, a credit link in your README would mean a lot — but no obligation. Pay it forward instead._</sub>
-
-<br/>
-
-<sub>_Crafted by hand · maintained with care · last polish 2026_</sub>
+<sub>_Built by hand · updated for clarity · designed to be read by founders, recruiters, investors, and serious engineers._</sub>
 
 </div>
 
 <!--
-  ──────────────────────────────────────────────────────────────────
-  Still reading? You may be my next hire — or my next employer.
-  Either way: info@theappsfirm.com.
-  ──────────────────────────────────────────────────────────────────
+  You scrolled the whole thing. That's the kind of attention I respect.
+  Reach out: info@theappsfirm.com
 -->
