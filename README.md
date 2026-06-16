@@ -600,6 +600,44 @@ $10M+/month processed<br/>
 
 ---
 
+## 🎯 Roles I'm Open To
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💼 &nbsp; Full-time tracks
+
+- **Head of Mobile Engineering** at growth-stage product companies
+- **Senior EM · Director of Mobile** (15–25 engineer scope)
+- **Founding CTO** at mobile-first, regulated-industry startups
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ &nbsp; Fractional & strategic
+
+- **Fractional CTO** for fintech · govtech · healthtech
+- **Architect-in-Residence** scaling 5 → 20 mobile engineers
+- **Mobile architecture audits** · security-first system design
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 &nbsp; Board & advisory
+
+- **Engineering · product · security advisory** at seed → Series B
+- **Independent board seats** for mobile-first / regulated products
+- **Strategic technical reviews** before raises or audits
+
+</td>
+</tr>
+</table>
+
+> **Best-fit company profile** &nbsp;·&nbsp; Series A → Series C &nbsp;·&nbsp; 5–50 engineers &nbsp;·&nbsp; regulated industry (fintech, govtech, healthtech, identity) &nbsp;·&nbsp; mobile-heavy or going mobile-first &nbsp;·&nbsp; GCC · EU · or globally-remote with 4+ hour Dubai overlap.
+
+---
+
 <div id="-lets-talk"></div>
 
 ## 🤝 Let's Talk
