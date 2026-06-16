@@ -322,9 +322,15 @@ mindmap
 
 ### **A lead engine for banks — built from zero by me.**
 
-[![Get it](https://img.shields.io/badge/_See_Buzdy_on_Google_Play_-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000)](https://play.google.com/store/apps/details?id=com.buzdy.zia)
+<p>
+  <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store" height="42"/></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Get it on Google Play" height="42"/></a>
+  &nbsp;
+  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/_buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Buzdy.com" height="42"/></a>
+</p>
 
-<sub>_live · iterating · hiring quietly_</sub>
+<sub>_iOS · Android · Web &nbsp; — &nbsp; live · iterating · hiring quietly_</sub>
 
 </div>
 
