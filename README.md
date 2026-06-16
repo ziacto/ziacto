@@ -15,9 +15,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_AVAILABLE-CTO_%C2%B7_Fractional_%C2%B7_Board-22c55e?style=for-the-badge&labelColor=000000" alt="Available"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Dubai_%C2%B7_UTC%2B4-1a73e8?style=for-the-badge&labelColor=000000" alt="Location: Dubai"/>
-<img src="https://img.shields.io/badge/%E2%9A%A1-Replies_within_24h-eab308?style=for-the-badge&labelColor=000000" alt="Replies within 24 hours"/>
+<img src="https://img.shields.io/badge/AVAILABLE-CTO_·_Fractional_·_Board-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Available"/>
+<img src="https://img.shields.io/badge/DUBAI-UTC%2B4-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location: Dubai"/>
+<img src="https://img.shields.io/badge/REPLIES-WITHIN_24H-eab308?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000" alt="Replies within 24 hours"/>
 
 <sub><a href="#-lets-talk">↓ Jump straight to contact</a></sub>
 
@@ -37,7 +37,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ziacto&label=YOU+ARE+VISITOR&color=1a73e8&style=for-the-badge)
 ![Years](https://img.shields.io/badge/_LEADING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
 ![Scale](https://img.shields.io/badge/_PRODUCTS_AT-NATIONAL_SCALE-ff6b35?style=for-the-badge&labelColor=000000)
-![Mentored](https://img.shields.io/badge/_MENTORED-10%2C000%2B_DEVS-22c55e?style=for-the-badge&labelColor=000000)
+![Students](https://img.shields.io/badge/_UDEMY-10K%2B_STUDENTS-22c55e?style=for-the-badge&labelColor=000000)
 ![Status](https://img.shields.io/badge/_STATUS-OPEN_TO_CTO_ROLES-eab308?style=for-the-badge&labelColor=000000)
 
 </div>
@@ -421,7 +421,7 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" />
 
 <br/>
 
