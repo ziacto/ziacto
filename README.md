@@ -15,16 +15,11 @@
 
 <br/>
 
-```
-$ boot.profile --identity zia --role cto
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_AVAILABLE-CTO_%C2%B7_Fractional_%C2%B7_Board-22c55e?style=for-the-badge&labelColor=000000" alt="Available"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-Dubai_%C2%B7_UTC%2B4-1a73e8?style=for-the-badge&labelColor=000000" alt="Location: Dubai"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1-Replies_within_24h-eab308?style=for-the-badge&labelColor=000000" alt="Replies within 24 hours"/>
 
-  ✓ 12 years of engineering memory loaded
-  ✓ national-scale systems online
-  ✓ founder mode: active
-  ✓ one visitor — welcome.
-```
-
-<sub>🟢 &nbsp; **Open to CTO / Fractional / Board roles** &nbsp; · &nbsp; Based in Dubai &nbsp; · &nbsp; <a href="#-lets-talk">Jump to contact ↓</a></sub>
+<sub><a href="#-lets-talk">↓ Jump straight to contact</a></sub>
 
 <a href="https://github.com/ziacto">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=1A73E8&center=true&vCenter=true&multiline=true&width=920&height=120&lines=I+lead+engineering+for+products+that;serve+entire+countries.;%E2%80%94;Chief+Technology+Officer.+Founder.+Twelve+years+in." alt="Zia Shahid — CTO"/>
@@ -59,9 +54,9 @@ $ boot.profile --identity zia --role cto
 
 ## ◢ Hi, I'm Zia.
 
-**Twelve years in.** Started as an Android developer. Grew into a Mobile Architect. Stepped into engineering leadership at **Digital Dubai Authority**, where I co-architected **UAE PASS** — a country's digital identity — and lead mobile on **Dubai Now**, the super-app that's quietly woven into 2M+ daily lives across the UAE.
+**Twelve years in.** Started as an Android developer. Grew into a Mobile Architect. Spent years on **UAE PASS** and **Dubai Now** at **Digital Dubai Authority** — co-architecting a country's digital identity and the city super-app that's quietly woven into 2M+ daily lives across the UAE.
 
-Now I'm **CTO at Buzdy** — my own founder bet — and **open to my next CTO role** (or fractional / board seat).
+Now I'm **CTO at Buzdy** — my own founder bet, where I've stepped fully into engineering leadership: my product, my team, my thesis. And I'm **open to my next CTO role** (or fractional / board seat).
 
 I've done the technical work. Kotlin, Flutter, Python, AWS — yes, I can still draw the architecture on a whiteboard *and* commit the prototype the same afternoon. But the work I'm hired for now isn't code. It's **the call before the code is written**: which problem, which team, which stack, which risk, which trade-off. That's the seat I want to sit in for the next decade.
 
