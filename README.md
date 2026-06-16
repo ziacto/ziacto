@@ -54,22 +54,24 @@
 
 ## ◢ Hi, I'm Zia.
 
-**Twelve years in.** Started as an Android developer. Grew into a Mobile Architect. Spent years on **UAE PASS** and **Dubai Now** at **Digital Dubai Authority** — co-architecting a country's digital identity and the city super-app that's quietly woven into 2M+ daily lives across the UAE.
+**Twelve years in. Two tracks. One continuous arc.**
 
-Now I'm **CTO at Buzdy** — my own founder bet, where I've stepped fully into engineering leadership: my product, my team, my thesis. And I'm **open to my next CTO role** (or fractional / board seat).
+For **four years** I was a **System Developer at Digital Dubai Authority** — shipping into **UAE PASS** (the country's national digital identity) and **Dubai Now** (the super-app 2M+ residents open daily). Today I'm a **System Developer at Estidama**, working on sustainability-grade systems for Abu Dhabi's built environment.
 
-I've done the technical work. Kotlin, Flutter, Python, AWS — yes, I can still draw the architecture on a whiteboard *and* commit the prototype the same afternoon. But the work I'm hired for now isn't code. It's **the call before the code is written**: which problem, which team, which stack, which risk, which trade-off. That's the seat I want to sit in for the next decade.
+In parallel — **for those same four years** — I've been **Founder, CEO & CTO at Buzdy**. My own startup. My own product. My own team. My own thesis. That's where I built the CTO out of the engineer: strategy, hiring, fundraising, product, GTM.
+
+Running a startup *while* shipping at national scale teaches you what most engineers never learn — how to lead, prioritize, and ship at **two stages at once**. I haven't been "preparing" for a CTO role. **I've been a CTO for four years already.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
 
 ```yaml
 identity:
   name:        Muhammad Zia Shahid
   callsign:    ziacto
-  role:        CTO @ Buzdy.com   ·   open to next CTO / fractional role
-  also:        Lead Mobile Architect @ Digital Dubai Authority
+  founder_at:  Buzdy · CEO & CTO since 2022   (live product, real users)
+  day_job:     System Developer @ Estidama   (previously: Digital Dubai Authority)
   city:        Dubai, UAE
-in_one_line:   Engineering leader who has shipped products to entire countries.
-operating:     Strategy · Org design · Hiring · Architecture · Hands-on when needed
-not_a_fit_if:  no real users, no real stakes, no real ambition
+in_one_line:   I've been a CTO for four years — at my own startup, while shipping at national scale.
+operating:     Strategy · Org design · Hiring · Architecture · Hands-on
+status:        Open to next CTO role (full-time / fractional / board)
 ```
 
 ---
@@ -186,7 +188,7 @@ mindmap
 🔐 &nbsp; End-to-end encryption
 👤 &nbsp; Biometric MFA
 
-> _Role: **co-architect**_
+> _Role: **System Developer @ DDA**_
 > _Scope: **national**_
 
 <br/>
@@ -204,7 +206,7 @@ mindmap
 💳 &nbsp; High-volume payments
 ⚡ &nbsp; Major reliability uplift
 
-> _Role: **mobile lead**_
+> _Role: **System Developer @ DDA**_
 > _Scope: **city-wide**_
 
 <br/>
@@ -222,7 +224,7 @@ mindmap
 🎙️ &nbsp; HD voice & video
 🌐 &nbsp; AI real-time translation
 
-> _Role: **mobile architect**_
+> _Role: **contributor**_
 > _Scope: **global**_
 
 <br/>
@@ -295,14 +297,16 @@ timeline
        : my first taste of leading people, not just code
   2019 : Launched Udemy Masterclass · 10k+ students
        : teaching forced me to articulate what I knew
-  2021 : Joined Digital Dubai Authority
-       : co-architected UAE PASS · a country's identity
-  2023 : Dubai Now at 2M+ users · high-volume payments
-       : architecture decisions started showing up on millions of phones
-  2025 : Founded Buzdy · stepped fully into the CTO seat
-       : my own thesis · my own risk · my own product
+  2021 : Joined Digital Dubai Authority · System Developer
+       : shipped into UAE PASS — a country's digital identity
+  2022 : Founded Buzdy · CEO & CTO in parallel
+       : the day the founder seat became permanent
+  2023 : Dubai Now at 2M+ users
+       : code I shipped started running on millions of phones
+  2025 : Moved to Estidama · System Developer (day) · Buzdy continues
+       : same discipline, new mission — sustainability-grade systems
   2026 : Open to my next CTO role
-       : looking for the next problem worth a decade
+       : ready to bring four years of founder experience to one mission
 ```
 
 ---
@@ -425,8 +429,7 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=10" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ziacto&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=10" width="60%" alt="Top languages"/>
 
 <br/><br/>
 
@@ -562,45 +565,25 @@ If you're **hiring a CTO**, looking for a **fractional**, building a **board**, 
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="20%">
+<p>
+  <a href="https://www.linkedin.com/in/muhammadziashahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="42"/></a>
+  &nbsp;
+  <a href="mailto:ziagaggoo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="42"/></a>
+  &nbsp;
+  <a href="https://github.com/ziacto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" height="42"/></a>
+  &nbsp;
+  <a href="https://www.udemy.com/course/full-stack-mobile-application-development-master-class/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" alt="Udemy" height="42"/></a>
+  &nbsp;
+  <a href="https://buzdy.com"><img src="https://img.shields.io/badge/Buzdy-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Buzdy" height="42"/></a>
+</p>
 
-[<img src="https://img.shields.io/badge/_LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="44"/>](https://www.linkedin.com/in/muhammadziashahid)
-
-<sub>**preferred for hiring**</sub>
-
-</td>
-<td align="center" width="20%">
-
-[<img src="https://img.shields.io/badge/_Email_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="44"/>](mailto:ziagaggoo@gmail.com)
-
-<sub>**direct + private**</sub>
-
-</td>
-<td align="center" width="20%">
-
-[<img src="https://img.shields.io/badge/_GitHub_-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="44"/>](https://github.com/ziacto)
-
-<sub>_where my work lives_</sub>
-
-</td>
-<td align="center" width="20%">
-
-[<img src="https://img.shields.io/badge/_Udemy_-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" height="44"/>](https://www.udemy.com/course/full-stack-mobile-application-development-master-class/)
-
-<sub>_10k+ students_</sub>
-
-</td>
-<td align="center" width="20%">
-
-[<img src="https://img.shields.io/badge/_Buzdy_-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="44"/>](https://buzdy.com)
-
-<sub>_what I'm building_</sub>
-
-</td>
-</tr>
-</table>
+<sub>
+  <b>LinkedIn</b> · preferred for hiring &nbsp;|&nbsp;
+  <b>Email</b> · direct + private &nbsp;|&nbsp;
+  <b>GitHub</b> · where my work lives &nbsp;|&nbsp;
+  <b>Udemy</b> · 10k+ students &nbsp;|&nbsp;
+  <b>Buzdy</b> · what I'm building
+</sub>
 
 <br/>
 
