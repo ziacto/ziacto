@@ -68,24 +68,21 @@ status:        Open to next CTO role (full-time / fractional / board)
 <tr>
 <td width="33%" valign="top" align="center">
 
-###  🧭
-#### **Set Technical Direction**
+#### 🧭 &nbsp; Set Technical Direction
 
 Translate business strategy into a roadmap engineers can ship — and stakeholders can fund.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-###  👥
-#### **Design the Organisation**
+#### 👥 &nbsp; Design the Organisation
 
 Build the team that builds the product. Hiring, levelling, comp, on-call, performance — the whole machine.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-###  🏗️
-#### **Own the Architecture**
+#### 🏗️ &nbsp; Own the Architecture
 
 Make the calls only the CTO can make: build vs buy, monolith vs micro, cloud vs on-prem, regulated vs fast.
 
@@ -94,24 +91,21 @@ Make the calls only the CTO can make: build vs buy, monolith vs micro, cloud vs 
 <tr>
 <td width="33%" valign="top" align="center">
 
-###  🛡️
-#### **Manage Risk**
+#### 🛡️ &nbsp; Manage Risk
 
 Security, compliance, uptime, data, vendor lock-in, key-person risk. The chief de-risker.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-###  🗣️
-#### **Represent Engineering**
+#### 🗣️ &nbsp; Represent Engineering
 
 To the board. To investors. To regulators. To the rest of the org. Engineering's voice in every room.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-###  ⚒️
-#### **Stay Hands-On When It Matters**
+#### ⚒️ &nbsp; Stay Hands-On When It Matters
 
 Prototype the new thing. Debug the worst incident. Review the highest-risk PR. Lead from the front.
 
@@ -131,7 +125,7 @@ Prototype the new thing. Debug the worst incident. Review the highest-risk PR. L
 <br/>
 
 <a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
-  <img src="./assets/unicorn-cto-book.jpg" width="240" alt="The Unicorn CTO — book cover"/>
+  <img src="./assets/unicorn-cto-book.png" width="240" alt="The Unicorn CTO — book cover"/>
 </a>
 
 ### 🦄 &nbsp; The Unicorn CTO
@@ -235,7 +229,7 @@ mindmap
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/uaepass.png" width="128" alt="UAE PASS" style="border-radius:24px"/>
+<img src="./assets/uaepass.png" width="128" alt="UAE PASS"/>
 
 ### `UAE_PASS`
 **A country's digital identity**
@@ -253,7 +247,7 @@ mindmap
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/dubainow.png" width="128" alt="Dubai Now" style="border-radius:24px"/>
+<img src="./assets/dubainow.png" width="128" alt="Dubai Now"/>
 
 ### `DUBAI_NOW`
 **The city in your pocket**
@@ -271,7 +265,7 @@ mindmap
 <td width="33%" align="center" valign="top">
 
 <br/>
-<img src="./assets/botim.png" width="128" alt="BotIM" style="border-radius:24px"/>
+<img src="./assets/botim.png" width="128" alt="BotIM"/>
 
 ### `BOTIM`
 **Calls, chat, money — one app**
@@ -427,7 +421,7 @@ mindmap
 
 <br/>
 
-<img src="./assets/buzdy.png" width="140" alt="Buzdy app" style="border-radius:28px"/>
+<img src="./assets/buzdy.png" width="140" alt="Buzdy app"/>
 
 ### **A lead engine for banks — built from zero by me.**
 
@@ -597,16 +591,20 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 ### 📊 &nbsp; Snapshot &nbsp; · &nbsp; 🔥 &nbsp; Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true#gh-dark-mode-only" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&count_private=true&include_all_commits=true#gh-light-mode-only" width="49%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8#gh-dark-mode-only" width="49%" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=ziacto&hide_border=true&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8#gh-light-mode-only" width="49%" alt="Streak" />
 
 ### 📈 &nbsp; Contribution Pulse
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days" width="99%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days#gh-dark-mode-only" width="99%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=github-light&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days#gh-light-mode-only" width="99%" alt="Activity graph"/>
 
 ### 🎨 &nbsp; Language Mix
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900#gh-dark-mode-only" width="99%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&hide_border=true&title_color=1a73e8&langs_count=12&card_width=900#gh-light-mode-only" width="99%" alt="Top languages"/>
 
 ### 🔬 &nbsp; Deeper Dives
 
