@@ -141,6 +141,56 @@ Prototype the new thing. Debug the worst incident. Review the highest-risk PR. L
 > _Unpopular opinion: **most developers should NOT become CTOs.**_
 > _Not because they aren't smart enough — because they don't understand what the job actually is._
 
+<div align="center">
+
+<br/>
+
+<a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
+  <img src="./assets/unicorn-cto-book.jpg" width="240" alt="The Unicorn CTO — book cover"/>
+</a>
+
+### 🦄 &nbsp; The Unicorn CTO
+
+**35 chapters &nbsp;·&nbsp; ~95,000 words &nbsp;·&nbsp; the playbook I wish existed when I started**
+
+<p>
+  <a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8"><img src="https://img.shields.io/badge/_BUY_ON_AMAZON_-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000" alt="Buy on Amazon" height="40"/></a>
+  &nbsp;
+  <a href="https://play.google.com/store/books?q=The+Unicorn+CTO+Zia+Shahid"><img src="https://img.shields.io/badge/_GOOGLE_PLAY_BOOKS_-4285F4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Google Play Books" height="40"/></a>
+  &nbsp;
+  <a href="https://www.goodreads.com/author/show/20454809.Zia_Shahid"><img src="https://img.shields.io/badge/_READ_REVIEWS_-372213?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000" alt="Read reviews" height="40"/></a>
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 &nbsp; The pitch
+
+I watched too many brilliant engineers crash and burn in leadership because **no one told them what the job really requires**. So I wrote it.
+
+If you think being CTO means _"senior developer who gets paid more"_ — you'll fail. **This is the unfiltered playbook.**
+
+> _If a recruiter wants to know how I think about the CTO seat — that's where to start._
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 &nbsp; What's inside
+
+- The mindset shift that trips up **90% of new leaders**
+- Office politics (yes, you have to play)
+- Managing the **12 types of problem employees**
+- Budget and **P&L ownership**
+- Building and scaling teams
+- Staying technical while leading
+
+</td>
+</tr>
+</table>
+
 ```mermaid
 %%{init: {"theme":"dark","themeVariables":{"pie1":"#1a73e8","pie2":"#ff6b35","pie3":"#a855f7","pie4":"#22c55e"}}}%%
 pie showData
@@ -151,54 +201,11 @@ pie showData
   "Business strategy"         : 20
 ```
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-### 🦄 &nbsp; **The Unicorn CTO**
+📓 &nbsp; **Daily footnotes from the book →** &nbsp; one short observation per day on the work most engineers don't see &nbsp; · &nbsp; [⭐ Follow `unicorn-cto-daily`](https://github.com/ziacto/unicorn-cto-daily)
 
-**35 chapters · ~95,000 words · the playbook I wish existed when I started.**
-
-I watched too many brilliant engineers crash and burn in leadership because **no one told them what the job really requires**. So I wrote it.
-
-If you think being CTO means _"senior developer who gets paid more"_ — you'll fail. This is the unfiltered playbook.
-
-**What's inside:**
-- The mindset shift that trips up **90% of new leaders**
-- Office politics (yes, you have to play)
-- Managing the **12 types of problem employees**
-- Budget and **P&L ownership**
-- Building and scaling teams
-- Staying technical while leading
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
-  <img src="./assets/unicorn-cto-book.jpg" width="220" alt="The Unicorn CTO — book cover"/>
-</a>
-
-<br/><br/>
-
-[![Amazon](https://img.shields.io/badge/_BUY_ON_AMAZON_-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000)](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8)
-
-<br/>
-
-[![Google Play](https://img.shields.io/badge/_GOOGLE_PLAY_BOOKS_-4285F4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000)](https://play.google.com/store/books?q=The+Unicorn+CTO+Zia+Shahid)
-
-<br/>
-
-[![Goodreads](https://img.shields.io/badge/_READ_REVIEWS_-372213?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000)](https://www.goodreads.com/author/show/20454809.Zia_Shahid)
-
-<br/>
-
-<sub>_If a recruiter wants to know how I think about the CTO seat — that's where to start._</sub>
-
-</td>
-</tr>
-</table>
-
-> 📓 &nbsp; **Daily footnotes from the book →** &nbsp; one short observation per day on the work most engineers don't see &nbsp; · &nbsp; [⭐ Follow `unicorn-cto-daily`](https://github.com/ziacto/unicorn-cto-daily)
+</div>
 
 ---
 
