@@ -490,7 +490,7 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=10" width="60%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
 
 <br/><br/>
 
