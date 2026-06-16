@@ -36,9 +36,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ziacto&label=YOU+ARE+VISITOR&color=1a73e8&style=for-the-badge)
 ![Years](https://img.shields.io/badge/_LEADING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
+![Author](https://img.shields.io/badge/_AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000)
 ![Scale](https://img.shields.io/badge/_PRODUCTS_AT-NATIONAL_SCALE-ff6b35?style=for-the-badge&labelColor=000000)
 ![Students](https://img.shields.io/badge/_UDEMY-10K%2B_STUDENTS-22c55e?style=for-the-badge&labelColor=000000)
-![Status](https://img.shields.io/badge/_STATUS-OPEN_TO_CTO_ROLES-eab308?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -68,8 +68,9 @@ identity:
   callsign:    ziacto
   founder_at:  Buzdy · CEO & CTO since 2022   (live product, real users)
   day_job:     System Developer @ Estidama   (previously: Digital Dubai Authority)
+  author_of:   "The Unicorn CTO" · 35 chapters · ~95k words · Dec 2025
   city:        Dubai, UAE
-in_one_line:   I've been a CTO for four years — at my own startup, while shipping at national scale.
+in_one_line:   I've been a CTO for four years — and I wrote the book on what the job actually is.
 operating:     Strategy · Org design · Hiring · Architecture · Hands-on
 status:        Open to next CTO role (full-time / fractional / board)
 ```
@@ -128,6 +129,66 @@ To the board. To investors. To regulators. To the rest of the org. Engineering's
 #### **Stay Hands-On When It Matters**
 
 Prototype the new thing. Debug the worst incident. Review the highest-risk PR. Lead from the front.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◢ I Wrote the Book — Literally
+
+> _Unpopular opinion: **most developers should NOT become CTOs.**_
+> _Not because they aren't smart enough — because they don't understand what the job actually is._
+
+```mermaid
+%%{init: {"theme":"dark","themeVariables":{"pie1":"#1a73e8","pie2":"#ff6b35","pie3":"#a855f7","pie4":"#22c55e"}}}%%
+pie showData
+  title  What the CTO role actually is
+  "Technology"                : 20
+  "People management"         : 30
+  "Politics & communication"  : 30
+  "Business strategy"         : 20
+```
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🦄 &nbsp; **The Unicorn CTO**
+
+**35 chapters · ~95,000 words · the playbook I wish existed when I started.**
+
+I watched too many brilliant engineers crash and burn in leadership because **no one told them what the job really requires**. So I wrote it.
+
+If you think being CTO means _"senior developer who gets paid more"_ — you'll fail. This is the unfiltered playbook.
+
+**What's inside:**
+- The mindset shift that trips up **90% of new leaders**
+- Office politics (yes, you have to play)
+- Managing the **12 types of problem employees**
+- Budget and **P&L ownership**
+- Building and scaling teams
+- Staying technical while leading
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<br/>
+
+[![Amazon](https://img.shields.io/badge/_BUY_ON_AMAZON_-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000)](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8)
+
+<br/>
+
+[![Google Play](https://img.shields.io/badge/_GOOGLE_PLAY_BOOKS_-4285F4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000)](https://play.google.com/store/books?q=The+Unicorn+CTO+Zia+Shahid)
+
+<br/>
+
+[![Goodreads](https://img.shields.io/badge/_READ_REVIEWS_-372213?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000)](https://www.goodreads.com/author/show/20454809.Zia_Shahid)
+
+<br/>
+
+<sub>_If a recruiter wants to know how I think about the CTO seat — that's where to start._</sub>
 
 </td>
 </tr>
@@ -545,9 +606,9 @@ Certified Ethical Hacker (CEH)
 ### 🏆
 #### **At-Scale Receipts**
 
+Author · "The Unicorn CTO" (95k words)
 National-scale auth shipped
 Smart-city super-app at 2M+ users
-10,000+ developers mentored
 Founder of a live product
 
 </td>
