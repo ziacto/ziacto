@@ -174,7 +174,11 @@ If you think being CTO means _"senior developer who gets paid more"_ — you'll 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<br/>
+<a href="https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8">
+  <img src="./assets/unicorn-cto-book.jpg" width="220" alt="The Unicorn CTO — book cover"/>
+</a>
+
+<br/><br/>
 
 [![Amazon](https://img.shields.io/badge/_BUY_ON_AMAZON_-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000)](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8)
 
