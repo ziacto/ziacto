@@ -286,14 +286,11 @@ _Context: Lime Media IPTV_
 
 ### 💸 &nbsp; Buzdy — Founder's Flagship Bet
 
-<table>
-<tr>
-<td width="35%" align="center" valign="middle">
+<div align="center">
 
-<img src="./assets/buzdy-logo-full.png" width="260" alt="Buzdy — fintech for UAE + KSA"/>
+<a href="https://buzdy.com"><img src="./assets/buzdy-brand.png" width="320" alt="Buzdy — fintech for UAE + KSA"/></a>
 
-</td>
-<td width="65%" valign="top">
+</div>
 
 **A fintech for UAE + KSA.** Compare credit cards, discover bank deals, and track spending — with AI that automatically extracts and ranks offers across bank websites so users don't have to dig through fine print.
 
@@ -305,17 +302,13 @@ _Context: Lime Media IPTV_
 + Looking for   design partners (banks, fintechs) · advisors
 ```
 
-<p>
+<p align="center">
   <a href="https://apps.apple.com/il/app/buzdy/id6758299754"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.buzdy.zia"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" height="42"/></a>
   &nbsp;
   <a href="https://buzdy.com"><img src="https://img.shields.io/badge/Visit-buzdy.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="42"/></a>
 </p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
