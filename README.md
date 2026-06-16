@@ -17,6 +17,7 @@
 
 <img src="https://img.shields.io/badge/AVAILABLE-CTO_·_Fractional_·_Board-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Available"/>
 <img src="https://img.shields.io/badge/AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000" alt="Author of The Unicorn CTO"/>
+<img src="https://img.shields.io/badge/LED-15%2B_ENGINEERS-ff6b35?style=for-the-badge&logo=teamspeak&logoColor=white&labelColor=000000" alt="Led 15+ engineers"/>
 <img src="https://img.shields.io/badge/DUBAI-UTC%2B4-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location: Dubai"/>
 
 <sub><a href="#-lets-talk">↓ Jump straight to contact</a></sub>
@@ -35,8 +36,8 @@
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ziacto&label=YOU+ARE+VISITOR&color=1a73e8&style=for-the-badge)
-![Years](https://img.shields.io/badge/_LEADING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
-![Scale](https://img.shields.io/badge/_PRODUCTS_AT-NATIONAL_SCALE-ff6b35?style=for-the-badge&labelColor=000000)
+![Years](https://img.shields.io/badge/_BUILDING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
+![Ventures](https://img.shields.io/badge/_FOUNDED-5_LIVE_VENTURES-ff6b35?style=for-the-badge&labelColor=000000)
 ![Students](https://img.shields.io/badge/_UDEMY-10K%2B_STUDENTS-22c55e?style=for-the-badge&labelColor=000000)
 
 </div>
@@ -53,24 +54,26 @@
 
 ## ◢ Hi, I'm Zia.
 
-**Twelve years in. Two tracks. One continuous arc.**
+**Twelve years in. Two tracks. Five ventures. One continuous arc.**
 
 For four years I was a **System Developer at Digital Dubai Authority** — contributing to **national-scale identity and city super-app systems** that millions of UAE residents rely on daily. Today I'm a **System Developer at Estidama**, working on sustainability-grade systems for Abu Dhabi's built environment.
 
-In parallel — **for those same four years** — I've been **Founder, CEO & operating CTO at Buzdy**. My own startup. My own product. My own team. My own thesis. That's where I built the CTO out of the engineer: strategy, hiring, fundraising, product, GTM.
+In parallel — for those same four years — I've been **Founder, CEO & operating CTO at five live ventures**: [Buzdy](https://buzdy.com), [TheAppsFirm](https://theappsfirm.com), [W3Quran](https://w3quran.com), [Mr Oye](https://mroye.com), and [Molaqat](https://molaqat.com). My own products. My own teams. My own theses.
 
-Running a startup *while* shipping at national scale teaches you what most engineers never learn — how to lead, prioritize, and ship at **two stages at once**. I haven't been "preparing" for a CTO role. **I've been operating as CTO at Buzdy for four years.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
+I've **led engineering teams of 15+ people** across these ventures and prior roles — hiring, levelling, on-call rotations, performance reviews, the whole machine. I **run my own production infrastructure** end-to-end — Hetzner with aaPanel, Cloudflare at the edge, cPanel where it fits. **No SRE team between me and the box.** And I work AI-native — Claude Code and OpenAI CLI are as much in my daily workflow as my IDE.
+
+I haven't been "preparing" for a CTO role. **I've been operating as CTO across five companies for four years.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
 
 ```yaml
 identity:
   name:        Muhammad Zia Shahid
   callsign:    ziacto
-  founder_at:  Buzdy · CEO & CTO since 2022   (live product, real users)
+  founder_at:  Buzdy · TheAppsFirm · W3Quran · Mr Oye · Molaqat   (5 live ventures)
   day_job:     System Developer @ Estidama   (previously: Digital Dubai Authority)
   author_of:   "The Unicorn CTO" · 35 chapters · ~95k words · Dec 2025
   city:        Dubai, UAE
-in_one_line:   Operating as CTO at my own startup for four years — and I wrote the book on what the job actually is.
-operating:     Strategy · Org design · Hiring · Architecture · Hands-on
+in_one_line:   Operated 5 ventures. Led 15+ engineers. Wrote the book on the CTO seat.
+operating:     Strategy · Org design · Hiring · Architecture · Hands-on infra (Hetzner / Cloudflare / aaPanel) · AI-native (Claude Code / OpenAI CLI)
 status:        Open to next CTO role (full-time / fractional / board)
 ```
 
@@ -305,6 +308,105 @@ mindmap
 </td>
 </tr>
 </table>
+
+---
+
+## ◢ The Operator Portfolio
+
+> _Five live ventures. Different stages, different theses, one operator._
+> _The agency funds the products. The products inform the book. The book opens the rooms._
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+
+### 📖
+#### `W3QURAN`
+
+**Islamic + Quran tech**
+for a 1.8B-Muslim market
+
+🕌 &nbsp; web-scale
+🌐 &nbsp; Cloudflare edge
+🎯 &nbsp; civilizational
+
+<sub>**live · iterating**</sub>
+
+[w3quran.com](https://w3quran.com)
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 💸
+#### `BUZDY`
+
+**Lead engine for banks**
++ AI crypto signals
+
+📱 &nbsp; iOS · Android · Web
+🤖 &nbsp; AI-driven funnel
+🎯 &nbsp; fintech / GTM
+
+<sub>**live · iterating · hiring**</sub>
+
+[buzdy.com](https://buzdy.com)
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 🛠️
+#### `THE APPS FIRM`
+
+**Apps agency**
+build · ship · support
+
+💼 &nbsp; client engagements
+🌍 &nbsp; Hetzner + Cloudflare
+🎯 &nbsp; cash engine + R&D lab
+
+<sub>**ongoing · profitable**</sub>
+
+[theappsfirm.com](https://theappsfirm.com)
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 🤖
+#### `MR OYE`
+
+**AI browser extension**
+your second brain
+
+🌐 &nbsp; Chrome MV3
+🔑 &nbsp; BYOK · vanilla JS
+🎯 &nbsp; productivity
+
+<sub>**live**</sub>
+
+[mroye.com](https://mroye.com)
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 🤝
+#### `MOLAQAT`
+
+**Meetings, reimagined**
+for the GCC region
+
+📅 &nbsp; smart scheduling
+🌍 &nbsp; Arabic-first
+🎯 &nbsp; productivity / MENA
+
+<sub>**building**</sub>
+
+[molaqat.com](https://molaqat.com)
+
+</td>
+</tr>
+</table>
+
+> 💡 &nbsp; **The pattern:** _agency cash funds product bets — each product proves a thesis the next one extends._ Capital-efficient, founder-led, no investor pressure forcing premature focus. The cap tables are mine.
 
 ---
 
@@ -594,6 +696,34 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 </details>
 
+<details>
+<summary><b>🏗️ Infrastructure I run myself · no SRE between me and the box</b></summary>
+<br/>
+
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=for-the-badge&logo=plesk&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<sub>_I provision, deploy, monitor, and keep alive the production stacks behind 5 live ventures. Hands-on, not abstracted._</sub>
+
+</details>
+
+<details>
+<summary><b>🤖 AI-native workflow · how I move 3x faster</b></summary>
+<br/>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+<sub>_LLM agents in my daily IDE workflow. CI pipelines that review their own PRs. The CTOs who refuse this stack will be 3 years behind in 18 months._</sub>
+
+</details>
+
 ---
 
 ## ◢ Credentials & Receipts
@@ -627,10 +757,10 @@ Certified Ethical Hacker (CEH)
 ### 🏆
 #### **At-Scale Receipts**
 
+Led engineering teams of **15+**
 Author · "The Unicorn CTO" (95k words)
-National-scale auth shipped
-Smart-city super-app at 2M+ users
-Founder of a live product
+Founder of **5 live ventures**
+National-scale identity systems shipped
 
 </td>
 </tr>
