@@ -64,7 +64,7 @@
     <circle r="4" fill="#22c55e">
       <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="-12" y="4" font-family="Menlo, Consolas, monospace" font-size="10" fill="#22c55e" text-anchor="end" letter-spacing="2">OPEN TO ROLES</text>
+    <text x="-12" y="4" font-family="Menlo, Consolas, monospace" font-size="10" fill="#22c55e" text-anchor="end" letter-spacing="2">OPEN — ADVISORY</text>
   </g>
 
   <text x="600" y="110" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="74" fill="#ffffff" letter-spacing="10">ZIA SHAHID</text>

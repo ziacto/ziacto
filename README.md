@@ -74,7 +74,7 @@
 |---|---|
 | **Current direction** | Open to **Fractional CTO · Head of Mobile · Founding CTO · Board / Advisory** |
 | **Base** | Dubai, UAE &nbsp;·&nbsp; UTC+4 &nbsp;·&nbsp; open to remote / hybrid / on-site worldwide |
-| **Background** | 12+ years shipping production mobile across **government, fintech, defense, and telecom** — apps reaching **3M+ users** |
+| **Background** | 12+ years shipping production mobile across **government, fintech, defense, and telecom** — apps reaching **3M+ users across products** |
 | **Marquee work** | **Dubai Now** (2M+ users · $10M+/month) · **UAE PASS** (50+ government entities) · **BotIM** (current — Flutter migration) · **Ministry of Defense** · **Aldar Properties** · **Abu Dhabi TV** |
 | **Leadership scope** | Led **20+ person cross-functional teams** (mobile · backend · DevOps · QA) at Digital Dubai Authority · mentored 15+ engineers, several promoted to senior |
 | **Reliability bar** | **99.99% uptime** on DDA microservices · **99.9% crash-free** sessions on Dubai Now · **80% crash-rate reduction** · **70% faster deployments** |
@@ -238,7 +238,7 @@ _Context: Digital Dubai Authority_
 
 Currently leading the **native-to-Flutter migration**.
 
-_Role: **System Engineer**_
+_Role: **System Engineer** — leading Flutter migration_
 _Context: Estidama UAE (current)_
 
 </td>
@@ -383,8 +383,8 @@ timeline
        : Flutter + Laravel + Node.js · OpenAI + Google Custom Search
        : Wrapped DDA tenure Dec 2025 · deployment -70% · crash rates -80%
        : Published *The Unicorn CTO* · 35 chapters · ~95k words
-  2026 : System Engineer · ESTIDAMA UAE · Abu Dhabi (full-time on-site)
-       : Building BotIM messaging/VoIP · Flutter migration
+  2026 : Leading BotIM Flutter migration · ESTIDAMA UAE · Abu Dhabi
+       : Middle East messaging giant · native → Flutter · System Engineer · full-time on-site
        : Buzdy continues in parallel · open to next CTO seat
 ```
 
@@ -620,7 +620,7 @@ Book: _The Unicorn CTO_ &nbsp;·&nbsp; 2025
 
 ### 🏆 &nbsp; Signals
 
-3M+ users reached<br/>
+3M+ users (career total)<br/>
 $10M+/month processed<br/>
 20+ engineers led · 15+ mentored<br/>
 99.99% uptime · 99.9% crash-free<br/>
