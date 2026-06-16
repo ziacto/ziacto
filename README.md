@@ -15,13 +15,16 @@
 
 <br/>
 
-```ansi
-> boot.profile --identity zia --role cto
-[ ok ] 12 years of engineering memory loaded
-[ ok ] national-scale systems online
-[ ok ] founder mode: active
-[ ok ] one visitor — welcome.
 ```
+$ boot.profile --identity zia --role cto
+
+  ✓ 12 years of engineering memory loaded
+  ✓ national-scale systems online
+  ✓ founder mode: active
+  ✓ one visitor — welcome.
+```
+
+<sub>🟢 &nbsp; **Open to CTO / Fractional / Board roles** &nbsp; · &nbsp; Based in Dubai &nbsp; · &nbsp; <a href="#-lets-talk">Jump to contact ↓</a></sub>
 
 <a href="https://github.com/ziacto">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=1A73E8&center=true&vCenter=true&multiline=true&width=920&height=120&lines=I+lead+engineering+for+products+that;serve+entire+countries.;%E2%80%94;Chief+Technology+Officer.+Founder.+Twelve+years+in." alt="Zia Shahid — CTO"/>
@@ -80,28 +83,54 @@ not_a_fit_if:  no real users, no real stakes, no real ambition
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### **Set technical direction**
-Translate business strategy into a roadmap engineers can actually ship — and stakeholders can actually fund.
+###  🧭
+#### **Set Technical Direction**
 
-### **Design organisations**
+Translate business strategy into a roadmap engineers can ship — and stakeholders can fund.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+###  👥
+#### **Design the Organisation**
+
 Build the team that builds the product. Hiring, levelling, comp, on-call, performance — the whole machine.
 
-### **Own the architecture**
+</td>
+<td width="33%" valign="top" align="center">
+
+###  🏗️
+#### **Own the Architecture**
+
 Make the calls only the CTO can make: build vs buy, monolith vs micro, cloud vs on-prem, regulated vs fast.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
 
-### **Manage risk**
-Security, compliance, uptime, data, vendor lock-in, key-person risk. The CTO is the chief de-risker.
+###  🛡️
+#### **Manage Risk**
 
-### **Represent engineering**
-To the board. To investors. To regulators. To press. To the rest of the org. Engineering's voice in every room.
+Security, compliance, uptime, data, vendor lock-in, key-person risk. The chief de-risker.
 
-### **Stay hands-on when it matters**
-Prototype the new thing. Debug the worst incident. Review the highest-risk PR. Lead from the front, not the rear.
+</td>
+<td width="33%" valign="top" align="center">
+
+###  🗣️
+#### **Represent Engineering**
+
+To the board. To investors. To regulators. To the rest of the org. Engineering's voice in every room.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+###  ⚒️
+#### **Stay Hands-On When It Matters**
+
+Prototype the new thing. Debug the worst incident. Review the highest-risk PR. Lead from the front.
 
 </td>
 </tr>
@@ -152,47 +181,56 @@ mindmap
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/uaepass.png" width="96" alt="UAE PASS"/>
+<br/>
+<img src="./assets/uaepass.png" width="128" alt="UAE PASS" style="border-radius:24px"/>
 
 ### `UAE_PASS`
 **A country's digital identity**
 
-50+ government services
-End-to-end encryption
-Biometric MFA
+🏛️ &nbsp; 50+ government services
+🔐 &nbsp; End-to-end encryption
+👤 &nbsp; Biometric MFA
 
-> _Role: co-architect_
-> _Scope: national_
+> _Role: **co-architect**_
+> _Scope: **national**_
+
+<br/>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/dubainow.jpg" width="96" alt="Dubai Now"/>
+<br/>
+<img src="./assets/dubainow.png" width="128" alt="Dubai Now" style="border-radius:24px"/>
 
 ### `DUBAI_NOW`
 **The city in your pocket**
 
-2M+ active users
-High-volume payments
-Major reliability uplift
+📱 &nbsp; 2M+ active users
+💳 &nbsp; High-volume payments
+⚡ &nbsp; Major reliability uplift
 
-> _Role: mobile lead_
-> _Scope: city-wide_
+> _Role: **mobile lead**_
+> _Scope: **city-wide**_
+
+<br/>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/botim.png" width="96" alt="BotIM"/>
+<br/>
+<img src="./assets/botim.png" width="128" alt="BotIM" style="border-radius:24px"/>
 
 ### `BOTIM`
 **Calls, chat, money — one app**
 
-100M+ downloads (product)
-HD voice & video
-AI real-time translation
+📥 &nbsp; 100M+ downloads (product)
+🎙️ &nbsp; HD voice & video
+🌐 &nbsp; AI real-time translation
 
-> _Role: mobile architect_
-> _Scope: global_
+> _Role: **mobile architect**_
+> _Scope: **global**_
+
+<br/>
 
 </td>
 </tr>
@@ -202,25 +240,41 @@ AI real-time translation
 
 ## ◢ Founder's Lens — `BUZDY`
 
+<div align="center">
+
 > _The clearest signal a CTO can offer is this: I've sat in the founder's seat too._
 > _I know what your CEO needs from me, because I've been the CEO too._
 
-<table>
-<tr>
-<td width="22%" align="center" valign="middle">
-
-<img src="./assets/buzdy.png" width="130" alt="Buzdy app"/>
-
 <br/>
 
-[![Get it](https://img.shields.io/badge/_See_Buzdy_-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000)](https://play.google.com/store/apps/details?id=com.buzdy.zia)
-
-</td>
-<td width="78%" valign="top">
+<img src="./assets/buzdy.png" width="140" alt="Buzdy app" style="border-radius:28px"/>
 
 ### **A lead engine for banks — built from zero by me.**
 
-I watched banks burn millions on lead funnels that converted at single-digit rates. Buzdy is my answer: a consumer product that delivers **real-time crypto signals, bank intelligence, and AI-driven coin analysis** — and quietly **self-qualifies users** as high-intent leads in the process.
+[![Get it](https://img.shields.io/badge/_See_Buzdy_on_Google_Play_-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000)](https://play.google.com/store/apps/details?id=com.buzdy.zia)
+
+<sub>_live · iterating · hiring quietly_</sub>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 The Problem
+Banks burn millions chasing leads that convert at single-digit rates. Most "fintech leads" are noise dressed as signal.
+
+</td>
+<td width="50%" valign="top">
+
+#### 💡 The Bet
+A consumer product delivering real-time crypto signals, bank intelligence, and AI-driven coin analysis — that **self-qualifies users** as high-intent leads in the process.
+
+</td>
+</tr>
+</table>
 
 ```diff
 + Founder & CTO    — thesis, product, team, GTM
@@ -229,11 +283,7 @@ I watched banks burn millions on lead funnels that converted at single-digit rat
 + Looking for      — design partners (banks, fintechs) · advisors
 ```
 
-**Why it matters for hiring me:** I've owned the CTO seat at every stage. Government-scale (UAE PASS). City-scale (Dubai Now). 0 → 1 (Buzdy). I know what each stage needs from its CTO — and it's not the same answer.
-
-</td>
-</tr>
-</table>
+> **Why it matters for hiring me:** I've owned the CTO seat at every stage — government-scale (UAE PASS), city-scale (Dubai Now), and 0 → 1 (Buzdy). I know what each stage needs from its CTO — and it's not the same answer.
 
 ---
 
@@ -380,8 +430,8 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=10" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ziacto&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=10" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ziacto&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" width="49%"/>
 
 <br/><br/>
 
@@ -467,16 +517,44 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 ## ◢ Credentials & Receipts
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-| 🎓 **Education** | 📜 **Certifications** | 🏆 **At-scale work** |
-|:---:|:---:|:---:|
-| MS Computer Science | Google Certified Android Developer | National-scale auth shipped |
-| _Software Engineering_ | Flutter Certified Developer | Smart-city super-app at 2M+ users |
-| University of Lahore · 2012 | AWS Solutions Architect | 10,000+ developers mentored |
-|  | Certified Ethical Hacker (CEH) | Founder of a live product |
+### 🎓
+#### **Education**
 
-</div>
+**MS Computer Science**
+_Software Engineering_
+
+University of Lahore
+Class of 2012
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📜
+#### **Certifications**
+
+Google Certified Android
+Flutter Certified Developer
+AWS Solutions Architect
+Certified Ethical Hacker (CEH)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🏆
+#### **At-Scale Receipts**
+
+National-scale auth shipped
+Smart-city super-app at 2M+ users
+10,000+ developers mentored
+Founder of a live product
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -485,43 +563,62 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 ## ◢ Let's Talk
 
 I read every message. I reply to the serious ones.
-
-If you're hiring a CTO, looking for a fractional, building a board, or running an interesting problem — I'd like to hear about it.
+If you're **hiring a CTO**, looking for a **fractional**, building a **board**, or running a **problem worth a decade** — I'd like to hear about it.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muhammadziashahid">
-  <img src="https://img.shields.io/badge/_LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="mailto:ziagaggoo@gmail.com">
-  <img src="https://img.shields.io/badge/_Gmail_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://github.com/ziacto">
-  <img src="https://img.shields.io/badge/_GitHub_-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://www.udemy.com/course/full-stack-mobile-application-development-master-class/">
-  <img src="https://img.shields.io/badge/_Udemy_-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://buzdy.com">
-  <img src="https://img.shields.io/badge/_Buzdy_-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="40"/>
-</a>
+<table>
+<tr>
+<td align="center" width="20%">
 
-<br/><br/>
+[<img src="https://img.shields.io/badge/_LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="44"/>](https://www.linkedin.com/in/muhammadziashahid)
 
-```
-              ╔════════════════════════════════════════════╗
-              ║   You scrolled the whole thing.            ║
-              ║   That's the kind of attention I hire for. ║
-              ║                                            ║
-              ║                                  — Zia     ║
-              ╚════════════════════════════════════════════╝
-```
+<sub>**preferred for hiring**</sub>
+
+</td>
+<td align="center" width="20%">
+
+[<img src="https://img.shields.io/badge/_Email_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="44"/>](mailto:ziagaggoo@gmail.com)
+
+<sub>**direct + private**</sub>
+
+</td>
+<td align="center" width="20%">
+
+[<img src="https://img.shields.io/badge/_GitHub_-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="44"/>](https://github.com/ziacto)
+
+<sub>_where my work lives_</sub>
+
+</td>
+<td align="center" width="20%">
+
+[<img src="https://img.shields.io/badge/_Udemy_-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=000000" height="44"/>](https://www.udemy.com/course/full-stack-mobile-application-development-master-class/)
+
+<sub>_10k+ students_</sub>
+
+</td>
+<td align="center" width="20%">
+
+[<img src="https://img.shields.io/badge/_Buzdy_-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" height="44"/>](https://buzdy.com)
+
+<sub>_what I'm building_</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> _You scrolled the whole thing._
+> _That's the kind of attention I hire for — and the kind I bring._
+>
+> **— Zia**
 
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,24,30&height=140&section=footer)
 
-<sub>_Crafted by hand. Maintained with care._</sub>
+<sub>_Crafted by hand · maintained with care · last polish 2026_</sub>
 
 </div>
 
