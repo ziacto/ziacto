@@ -37,28 +37,70 @@
 
 ## ◢ Hi, I'm Zia.
 
-**Twelve years in. Two tracks. Five ventures. One continuous arc.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-For four years I was a **System Developer at Digital Dubai Authority** — contributing to **national-scale identity and city super-app systems** that millions of UAE residents rely on daily. Today I'm a **System Developer at Estidama**, working on sustainability-grade systems for Abu Dhabi's built environment.
+### Twelve years in.
+### Two tracks. Five ventures.
+### One continuous arc.
 
-In parallel — for those same four years — I've been **Founder, CEO & operating CTO at five live ventures**: [Buzdy](https://buzdy.com), [TheAppsFirm](https://theappsfirm.com), [W3Quran](https://w3quran.com), [Mr Oye](https://mroye.com), and [Molaqat](https://molaqat.com). My own products. My own teams. My own theses.
+I'm an **engineering leader** who's shipped products to entire countries — and a **serial founder** running five ventures in parallel. I've **led 15+ engineers**, written the book on the CTO role, and I still **run my own production infra**.
 
-I've **led engineering teams of 15+ people** across these ventures and prior roles — hiring, levelling, on-call rotations, performance reviews, the whole machine. I **run my own production infrastructure** end-to-end — Hetzner with aaPanel, Cloudflare at the edge, cPanel where it fits. **No SRE team between me and the box.** And I work AI-native — Claude Code and OpenAI CLI are as much in my daily workflow as my IDE.
+</td>
+<td width="50%" valign="middle">
 
-I haven't been "preparing" for a CTO role. **I've been operating as CTO across five companies for four years.** Now I'm **open to bringing that full conviction to one mission** — full-time, fractional, or board.
+<table>
+<tr>
+<td align="center" width="50%"><h2>12+</h2><sub><b>YEARS BUILDING</b></sub></td>
+<td align="center" width="50%"><h2>5</h2><sub><b>LIVE VENTURES</b></sub></td>
+</tr>
+<tr>
+<td align="center"><h2>15+</h2><sub><b>ENGINEERS LED</b></sub></td>
+<td align="center"><h2>95K</h2><sub><b>WORDS PUBLISHED</b></sub></td>
+</tr>
+</table>
 
-```yaml
-identity:
-  name:        Muhammad Zia Shahid
-  callsign:    ziacto
-  founder_at:  Buzdy · TheAppsFirm · W3Quran · Mr Oye · Molaqat   (5 live ventures)
-  day_job:     System Developer @ Estidama   (previously: Digital Dubai Authority)
-  author_of:   "The Unicorn CTO" · 35 chapters · ~95k words · Dec 2025
-  city:        Dubai, UAE
-in_one_line:   Operated 5 ventures. Led 15+ engineers. Wrote the book on the CTO seat.
-operating:     Strategy · Org design · Hiring · Architecture · Hands-on infra (Hetzner / Cloudflare / aaPanel) · AI-native (Claude Code / OpenAI CLI)
-status:        Open to next CTO role (full-time / fractional / board)
-```
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🛡️ &nbsp; Day job
+
+System Developer at **Estidama** (Abu Dhabi) — sustainability-grade systems.
+
+_Previously: 4 yrs at **Digital Dubai Authority** — contributed to UAE PASS + Dubai Now._
+
+</td>
+<td width="33%" valign="top">
+
+#### 🚀 &nbsp; Founder track
+
+CEO & operating CTO of **5 live ventures**:
+
+[Buzdy](https://buzdy.com) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🛠️ &nbsp; Hands-on
+
+Production infra end-to-end: **Hetzner · aaPanel · Cloudflare**.
+
+No SRE team between me and the box. AI-native — **Claude Code + OpenAI CLI** in daily workflow.
+
+</td>
+</tr>
+</table>
+
+> ✨ &nbsp; **I haven't been "preparing" for a CTO role. I've been operating as one across five companies for four years.**
+> Now open to bringing that full conviction to one mission — **full-time, fractional, or board.**
 
 ---
 
@@ -591,20 +633,16 @@ If a "yes" to (3) requires a "no" to (1) or (2) — it's a no, regardless of dea
 
 ### 📊 &nbsp; Snapshot &nbsp; · &nbsp; 🔥 &nbsp; Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true#gh-dark-mode-only" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&hide_border=true&title_color=1a73e8&icon_color=1a73e8&count_private=true&include_all_commits=true#gh-light-mode-only" width="49%" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8#gh-dark-mode-only" width="49%" alt="Streak" />
-<img src="https://streak-stats.demolab.com/?user=ziacto&hide_border=true&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8#gh-light-mode-only" width="49%" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziacto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=ziacto&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8" width="49%" alt="Streak" />
 
 ### 📈 &nbsp; Contribution Pulse
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days#gh-dark-mode-only" width="99%" alt="Activity graph"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=github-light&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days#gh-light-mode-only" width="99%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziacto&theme=tokyo-night&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&hide_border=true&area=true&custom_title=Last+31+Days" width="99%" alt="Activity graph"/>
 
 ### 🎨 &nbsp; Language Mix
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900#gh-dark-mode-only" width="99%" alt="Top languages"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&hide_border=true&title_color=1a73e8&langs_count=12&card_width=900#gh-light-mode-only" width="99%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziacto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=12&card_width=900" width="99%" alt="Top languages"/>
 
 ### 🔬 &nbsp; Deeper Dives
 
