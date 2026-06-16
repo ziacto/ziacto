@@ -16,6 +16,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/AVAILABLE-CTO_·_Fractional_·_Board-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Available"/>
+<img src="https://img.shields.io/badge/AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000" alt="Author of The Unicorn CTO"/>
 <img src="https://img.shields.io/badge/DUBAI-UTC%2B4-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location: Dubai"/>
 <img src="https://img.shields.io/badge/REPLIES-WITHIN_24H-eab308?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000" alt="Replies within 24 hours"/>
 
@@ -36,7 +37,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ziacto&label=YOU+ARE+VISITOR&color=1a73e8&style=for-the-badge)
 ![Years](https://img.shields.io/badge/_LEADING_FOR-12%2B_YEARS-1a73e8?style=for-the-badge&labelColor=000000)
-![Author](https://img.shields.io/badge/_AUTHOR-THE_UNICORN_CTO-a855f7?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000)
 ![Scale](https://img.shields.io/badge/_PRODUCTS_AT-NATIONAL_SCALE-ff6b35?style=for-the-badge&labelColor=000000)
 ![Students](https://img.shields.io/badge/_UDEMY-10K%2B_STUDENTS-22c55e?style=for-the-badge&labelColor=000000)
 
@@ -652,6 +652,24 @@ If you're **hiring a CTO**, looking for a **fractional**, building a **board**, 
 > _That's the kind of attention I hire for — and the kind I bring._
 >
 > **— Zia**
+
+<br/>
+
+---
+
+### 🪄 &nbsp; Like this profile? Make it yours.
+
+This README is **open-source and built to fork**. Hand-coded SVG banner, Mermaid diagrams, custom workflows, modular sections — all yours to remix.
+
+<p>
+  <a href="https://github.com/ziacto/ziacto/fork"><img src="https://img.shields.io/badge/_FORK_THIS_PROFILE_-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Fork this profile"/></a>
+  &nbsp;
+  <a href="./TEMPLATE.md"><img src="https://img.shields.io/badge/_HOW_TO_CUSTOMIZE_-1a73e8?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000000" alt="Customization guide"/></a>
+  &nbsp;
+  <a href="https://github.com/ziacto/ziacto/stargazers"><img src="https://img.shields.io/github/stars/ziacto/ziacto?style=for-the-badge&color=eab308&labelColor=000000&label=%E2%98%85%20STAR" alt="Star the repo"/></a>
+</p>
+
+<sub>_If you use it, a credit link in your README would mean a lot — but no obligation. Pay it forward instead._</sub>
 
 <br/>
 
