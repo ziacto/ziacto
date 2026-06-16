@@ -1,33 +1,37 @@
 <!--
   Zia Shahid — GitHub Profile README
-  Positioning: CTO · Fractional CTO · Founder-Operator
+  Positioning: Senior Mobile Architect · Founder & CTO at Buzdy · Author
   Hand-crafted. Built to be read by founders, recruiters, investors, and serious engineers.
 -->
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Zia Shahid — Chief Technology Officer" width="100%"/>
+<img src="./assets/banner.svg" alt="Zia Shahid — Senior Mobile Architect & Founder" width="100%"/>
 
 <br/>
 
 # Muhammad Zia Shahid
 
-### CTO-minded engineering leader · Founder-operator · Mobile-first architect
+### Senior Mobile Architect · Founder & CTO at Buzdy · Author of *The Unicorn CTO*
 
-<sub>**Dubai, UAE** &nbsp;·&nbsp; 12+ years &nbsp;·&nbsp; 5 live ventures &nbsp;·&nbsp; Author of [_The Unicorn CTO_](https://www.amazon.com/Unicorn-CTO-Fastest-route-developer-ebook/dp/B0994S3TF8)</sub>
+<sub>**Dubai, UAE** &nbsp;·&nbsp; 12+ years &nbsp;·&nbsp; **3M+ users reached** across government, fintech, defense, and telecom</sub>
+
+<br/>
+
+<sub>**3M+ users** &nbsp;·&nbsp; **2M+ daily on Dubai Now** &nbsp;·&nbsp; **$10M+/month transactions** &nbsp;·&nbsp; **99.99% uptime** &nbsp;·&nbsp; **20+ engineer teams led**</sub>
 
 <br/>
 
 <a href="mailto:info@theappsfirm.com?subject=Intro%20call%20—%20from%20your%20GitHub"><img src="https://img.shields.io/badge/_BOOK_A_20--MIN_INTRO_CALL_→-1a73e8?style=for-the-badge&labelColor=000000" height="44" alt="Book a 20-minute intro call"/></a>
 
-<sub>_for CTO roles · fractional · board · advisory_ &nbsp;·&nbsp; <a href="#-lets-talk">other channels ↓</a></sub>
+<sub>_Talk to me about:_ &nbsp; **Fractional CTO · Head of Mobile · Founding CTO · Advisory** &nbsp;·&nbsp; <a href="#-lets-talk">other channels ↓</a></sub>
 
 </div>
 
 <br/>
 
-> **I build the engineering machine behind products:**
-> strategy, architecture, hiring, delivery, security, infrastructure — and the hard calls in between.
+> **I ship the mobile engineering machine behind ambitious products:**
+> architecture, security, performance, hiring, delivery — and the hard calls in between.
 
 ---
 
@@ -35,14 +39,16 @@
 
 | Area | Signal |
 |---|---|
-| **Current direction** | Open to **CTO · Fractional CTO · Founding CTO · Board / Advisory** |
-| **Base** | Dubai, UAE &nbsp;·&nbsp; UTC+4 |
-| **Background** | 12+ years across mobile engineering, government-scale systems, product leadership, and founder-led execution |
-| **Leadership scope** | Led engineering teams of **15+** across ventures and prior roles |
-| **Founder portfolio** | [Buzdy](https://buzdy.com) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com) |
-| **Author** | _The Unicorn CTO_ — 35 chapters · ~95,000 words · Dec 2025 |
-| **Operating style** | Hands-on when needed · strategic when it matters · accountable always |
-| **Stack DNA** | Mobile-first (Kotlin · Flutter) · Python backend · AWS · own infra (Hetzner · Cloudflare) · AI-native (Claude Code · OpenAI CLI) |
+| **Current direction** | Open to **Fractional CTO · Head of Mobile · Founding CTO · Board / Advisory** |
+| **Base** | Dubai, UAE &nbsp;·&nbsp; UTC+4 &nbsp;·&nbsp; open to remote / hybrid / on-site worldwide |
+| **Background** | 12+ years shipping production mobile across **government, fintech, defense, and telecom** — apps reaching **3M+ users** |
+| **Marquee work** | **Dubai Now** (2M+ users · $10M+/month) · **UAE PASS** (50+ government entities) · **BotIM** (current — Flutter migration) · **Ministry of Defense** · **Aldar Properties** · **Abu Dhabi TV** |
+| **Leadership scope** | Led **20+ person cross-functional teams** (mobile · backend · DevOps · QA) at Digital Dubai Authority · mentored 15+ engineers, several promoted to senior |
+| **Reliability bar** | **99.99% uptime** on DDA microservices · **99.9% crash-free** sessions on Dubai Now · **80% crash-rate reduction** · **70% faster deployments** |
+| **Founder portfolio** | [Buzdy](https://buzdy.com) (fintech for UAE + KSA) · [TheAppsFirm](https://theappsfirm.com) · [W3Quran](https://w3quran.com) · [Mr Oye](https://mroye.com) · [Molaqat](https://molaqat.com) |
+| **Author** | _The Unicorn CTO_ — 35 chapters · ~95k words · Dec 2025 |
+| **Reach beyond product** | **100K+ Udemy students** · published research (2023) · Dubai Mobile Summit 2023 speaker |
+| **Stack DNA** | Kotlin · Jetpack Compose · Flutter · KMM · Compose Multiplatform · Node.js · Laravel · Python · AWS · Kubernetes · own infra (Hetzner / Cloudflare) · AI-native (Claude Code / OpenAI CLI) |
 
 ---
 
@@ -51,7 +57,7 @@
 > Most technical profiles show tools.
 > This profile shows **judgment**.
 
-I've worked across **three very different stages** of technology work — most engineers see one or two.
+I've worked across **three very different stages** of technology — most engineers see one or two.
 
 <table>
 <tr>
@@ -59,7 +65,7 @@ I've worked across **three very different stages** of technology work — most e
 
 ### 🏛️ &nbsp; Government Scale
 
-Contributed to **national and city-scale digital platforms** in the UAE ecosystem.
+Shipped into **national and city-scale digital platforms** in the UAE ecosystem — including **military-grade systems** for the Ministry of Defense.
 
 **Focus:** reliability, security, identity, regulated flows, production discipline.
 
@@ -68,18 +74,18 @@ Contributed to **national and city-scale digital platforms** in the UAE ecosyste
 
 ### 🚀 &nbsp; Founder Scale
 
-Built and operated **multiple ventures from idea to live product**.
+Built and operated **multiple ventures from idea to live product** — fintech, AI tooling, Islamic tech, productivity.
 
 **Focus:** speed, GTM, hiring, infrastructure, product-market learning.
 
 </td>
 <td width="33%" valign="top">
 
-### 🧠 &nbsp; CTO Scale
+### 🧠 &nbsp; Architect Scale
 
-Turned **technical decisions into business outcomes**.
+Turned **technical decisions into business outcomes** across 12 years.
 
-**Focus:** roadmap, architecture, team design, risk, delivery, board-level communication.
+**Focus:** mobile architecture, microservices, security, AI integration, team design, board-level communication.
 
 </td>
 </tr>
@@ -87,7 +93,7 @@ Turned **technical decisions into business outcomes**.
 
 ---
 
-## 🧩 What I Do as a CTO
+## 🧩 What I Do as a CTO / Mobile Architect
 
 <table>
 <tr>
@@ -97,7 +103,7 @@ Turned **technical decisions into business outcomes**.
 
 I translate messy business goals into technical priorities engineers can actually ship.
 
-- Architecture direction
+- Mobile architecture (Compose, Flutter, KMM)
 - Build vs buy decisions
 - Delivery sequencing
 - Platform choices
@@ -137,8 +143,8 @@ I stay close to the customer, not only the code.
 I treat security, uptime, and compliance as product features.
 
 - Authentication · payments · data protection
+- PKI · biometric · E2E encryption · DRM
 - Vendor risk · incident response
-- Production ownership
 - Stakeholder + board communication
 
 </td>
@@ -158,11 +164,13 @@ I treat security, uptime, and compliance as product features.
 
 ### UAE PASS
 
-**National digital identity ecosystem**
+**National digital identity**
 
-`identity` · `security` · `mobile` · `regulated`
+`PKI` · `biometric` · `OAuth2` · `E2E encrypted signing`
 
-_Role: **System Developer**_
+**50+ government entities** integrated.
+
+_Role: **Lead Mobile Engineer & Solutions Architect**_
 _Context: Digital Dubai Authority_
 
 </td>
@@ -173,11 +181,14 @@ _Context: Digital Dubai Authority_
 
 ### Dubai Now
 
-**City super-app for residents and services**
+**UAE's flagship city super-app**
 
-`mobile` · `payments` · `scale` · `service delivery`
+**2M+** active users<br/>
+**300+** government services<br/>
+**$10M+/month** in transactions<br/>
+**99.9%** crash-free sessions
 
-_Role: **System Developer**_
+_Role: **Lead Mobile Engineer & Solutions Architect**_
 _Context: Digital Dubai Authority_
 
 </td>
@@ -188,12 +199,57 @@ _Context: Digital Dubai Authority_
 
 ### BotIM
 
-**Calls, chat, money — one app**
+**Middle East messaging giant**
 
-`messaging` · `voip` · `AI translation` · `payments`
+`Flutter` · `WebSocket` · `VoIP` · `FCM` · `media`
 
-_Role: **Contributor**_
-_Scope: Global product_
+Currently leading the **native-to-Flutter migration**.
+
+_Role: **System Engineer**_
+_Context: Estidama UAE (current)_
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+### 🛡️ Ministry of Defense
+
+**Military-grade mobile**
+
+`PKI` · `custom encryption` · `biometric auth` · `secure offline sync`
+
+_Role: Mobile Security Lead_
+_Context: classified — public summary only_
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+### 🏢 Aldar Properties
+
+**Enterprise real estate platform**
+
+`React Native` · `Salesforce` · `Oracle ERP` · `Yardi`
+
+_Role: Lead Mobile Engineer_
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+### 📺 Abu Dhabi TV
+
+**Streaming platform**
+
+**100K+** concurrent users<br/>
+`Nat Geo` integration · `adaptive bitrate` · `WebRTC` · `FFmpeg`
+
+_Role: Senior Android & Security Advisor_
 
 </td>
 </tr>
@@ -203,11 +259,11 @@ _Scope: Global product_
 
 ## 🧪 The Operator Portfolio
 
-> _Five live ventures. Capital-efficient by design — the agency funds the products, the products inform the book, the book opens the rooms._
+> _Founder-operated products in parallel with the day-job track — the agency funds the products, the products inform the book, the book opens the rooms._
 
 | Venture | Category | What it proves |
 |---|---|---|
-| [**Buzdy**](https://buzdy.com) | Fintech · AI · mobile | I can build a product thesis, ship it, and iterate in public |
+| [**Buzdy**](https://buzdy.com) | Fintech · AI · UAE + KSA | I can build a product thesis, ship it end-to-end, and integrate AI into a real funnel |
 | [**TheAppsFirm**](https://theappsfirm.com) | Apps agency | I understand client delivery, cashflow, and practical execution |
 | [**W3Quran**](https://w3quran.com) | Islamic / Quran tech | I build beyond trends when the mission matters |
 | [**Mr Oye**](https://mroye.com) | AI browser extension | I work AI-native and ship productivity tools |
@@ -226,12 +282,13 @@ _Scope: Global product_
 </td>
 <td width="75%" valign="top">
 
-**A lead engine for banks** — real-time crypto signals + AI coin analysis that **self-qualifies users** as high-intent leads in the funnel.
+**A fintech platform for UAE and KSA** — credit card comparisons + banking analytics, with OpenAI for AI-powered content extraction and Google Custom Search for automated deal discovery across bank websites.
 
 ```diff
-+ Stack         Android · Flutter · Python · AI · AWS
++ Stack         Flutter · Laravel · Node.js · TypeScript · GraphQL · WebSocket · OpenAI API · Firebase · MySQL
 + Footprint     iOS · Android · Web
-+ Status        Live · iterating · hiring quietly
++ Started       Jan 2025 — Self-employed in parallel with day job
++ Status        Live · iterating · UAE banking partnerships in motion
 + Looking for   design partners (banks, fintechs) · advisors
 ```
 
@@ -284,17 +341,28 @@ _Scope: Global product_
 
 ```mermaid
 timeline
-  title From IC to CTO · twelve years in motion
+  title From IC to Architect to CTO · twelve years in motion
   2012 : MS Computer Science · University of Lahore
-  2014 : First Android app shipped
-  2017 : Lead Android Developer
-  2019 : Launched Udemy Masterclass · 10K+ students
-  2021 : Joined Digital Dubai Authority as System Developer
-       : shipped into UAE PASS and Dubai Now
-  2022 : Founded Buzdy · CEO & operating CTO in parallel
-  2023 : Dubai Now reaches super-app scale
-  2025 : Moved to Estidama · sustainability systems · Buzdy continues
-  2026 : Published *The Unicorn CTO* · open to next CTO seat
+  2013 : Mobile Dev Manager · The APPS Company + others
+       : 15+ enterprise apps · 1M+ combined downloads · teams of 5-8
+  2017 : Senior Android Dev & Security Advisor · Lime Media · Dubai
+       : IPTV platform · 100K+ concurrent users · WebRTC + FFmpeg
+  2019 : Java→Kotlin + MVVM migration · crashes -28% · memory -40%
+  2020 : Dev Team Lead · Android & Multimedia · Shaadoow Studio
+       : C++/NDK + Oboe · audio latency -45% · coverage 20%→80%
+  2021 : Lead Mobile Engineer & Solutions Architect · Digital Dubai Authority / LIQUET AG
+       : onboarded to UAE PASS + Dubai Now
+  2023 : Dubai Mobile Summit speaker
+       : Published research · "Mobile Application Security in Government Sector"
+  2024 : Dubai Now at super-app scale · 2M+ users · 300+ services · $10M+/month
+       : UAE PASS across 50+ government entities · 99.9% crash-free · 99.99% uptime
+  2025 : Founded Buzdy.com · Fintech for UAE + KSA (in parallel · self-employed)
+       : Flutter + Laravel + Node.js · OpenAI + Google Custom Search
+       : Wrapped DDA tenure Dec 2025 · deployment -70% · crash rates -80%
+       : Published *The Unicorn CTO* · 35 chapters · ~95k words
+  2026 : System Engineer · ESTIDAMA UAE · Abu Dhabi (full-time on-site)
+       : Building BotIM messaging/VoIP · Flutter migration
+       : Buzdy continues in parallel · open to next CTO seat
 ```
 
 ---
@@ -343,7 +411,7 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 <summary><b>What I'm currently exploring</b></summary>
 <br/>
 
-- Compose Multiplatform — one codebase, every screen
+- Compose Multiplatform in production
 - LLM agents inside engineering workflows
 - Edge ML for IoT pipelines
 - Zero-knowledge auth flows
@@ -356,29 +424,38 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 ## 🛠️ Technical Stack
 
 <details open>
-<summary><b>📱 &nbsp; Mobile · where I'm at home</b></summary>
+<summary><b>📱 &nbsp; Mobile · where I architect</b></summary>
 <br/>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMM](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_3%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift_5%2B-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![NDK/JNI](https://img.shields.io/badge/NDK%2FJNI_·_C%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 
 </details>
 
 <details>
-<summary><b>🐍 &nbsp; Backend, cloud & data</b></summary>
+<summary><b>🐍 &nbsp; Backend, APIs & data</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </details>
 
@@ -387,12 +464,16 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_·_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=for-the-badge&logo=plesk&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </details>
 
@@ -402,9 +483,27 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PKI](https://img.shields.io/badge/PKI-1A73E8?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Biometric](https://img.shields.io/badge/Biometric-1A73E8?style=for-the-badge&logo=touchid&logoColor=white)
+![Cert Pinning](https://img.shields.io/badge/Cert_Pinning-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AES/RSA](https://img.shields.io/badge/AES%2FRSA-A41E22?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH_Certified-A41E22?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Mobile_Specialist-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎬 &nbsp; Media & Real-time · streaming, codecs, low-latency</b></summary>
+<br/>
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Oboe](https://img.shields.io/badge/Oboe_Audio-FF6B35?style=for-the-badge&logo=android&logoColor=white)
+![DRM](https://img.shields.io/badge/DRM_Widevine-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Adaptive Bitrate](https://img.shields.io/badge/Adaptive_Bitrate-1A73E8?style=for-the-badge&logo=youtube&logoColor=white)
+
+<sub>_Powered Lime Media IPTV — 100K+ concurrent users._</sub>
 
 </details>
 
@@ -414,6 +513,8 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
@@ -456,11 +557,11 @@ If speed requires breaking safety or kindness, it's the wrong speed.
 
 ---
 
-## 🧾 Credentials & Receipts
+## 🧾 Credentials, Speaking & Publications
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🎓 &nbsp; Education
 
@@ -470,24 +571,38 @@ _Software Engineering_
 University of Lahore
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 📜 &nbsp; Certifications
 
-Google Certified Android<br/>
-Flutter Certified Developer<br/>
 AWS Solutions Architect<br/>
-Certified Ethical Hacker (CEH)
+Certified Kubernetes Administrator (CKA)<br/>
+Google Certified Android Developer<br/>
+Flutter Certified Developer<br/>
+Certified Ethical Hacker (CEH)<br/>
+OWASP Mobile Security Specialist
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
+
+### 🎙️ &nbsp; Speaking & Writing
+
+**Dubai Mobile Summit** &nbsp;·&nbsp; 2023 Speaker<br/><br/>
+Published research:<br/>
+_Mobile Application Security in the Government Sector_ &nbsp;·&nbsp; 2023<br/><br/>
+Book: _The Unicorn CTO_ &nbsp;·&nbsp; 2025
+
+</td>
+<td width="25%" align="center" valign="top">
 
 ### 🏆 &nbsp; Signals
 
-12+ years in engineering<br/>
-15+ engineers led<br/>
-5 live ventures founded<br/>
-Author · _The Unicorn CTO_
+3M+ users reached<br/>
+$10M+/month processed<br/>
+20+ engineers led · 15+ mentored<br/>
+99.99% uptime · 99.9% crash-free<br/>
+100K+ Udemy students<br/>
+5 live ventures founded
 
 </td>
 </tr>
@@ -502,7 +617,7 @@ Author · _The Unicorn CTO_
 <div align="center">
 
 I'm most interested in **serious technical leadership conversations**:
-CTO roles · fractional CTO · founding teams · advisory seats · ambitious products with real users.
+Fractional CTO · Head of Mobile · Founding CTO · advisory seats · ambitious products with real users.
 
 <br/>
 
